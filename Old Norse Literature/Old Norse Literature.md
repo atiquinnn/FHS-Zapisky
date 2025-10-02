@@ -1,6 +1,6 @@
 # Old Norse literature
 - Grampheme notes: DH is the voiced dental fricative, TH is the unvoiced, OE is the O with umlaut
-## 1. Lecture
+## First Lecture
 - Different lenses of approach
 - Short test at the end
 - Next week -- Judy Quinn -> Where do heroes come from? 
