@@ -1,3 +1,5 @@
+# Staroseverština
+## První hodina
 -st = mediopassivum
 d t dh = min. čas
 ins = člen
