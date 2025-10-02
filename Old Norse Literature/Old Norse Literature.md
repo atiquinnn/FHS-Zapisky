@@ -1,0 +1,127 @@
+# Old Norse literature
+- Grampheme notes: DH is the voiced dental fricative, TH is the unvoiced, OE is the O with umlaut
+## 1. Lecture
+- Different lenses of approach
+- Short test at the end
+- Next week -- Judy Quinn -> Where do heroes come from? 
+	- 3 eda poems
+### Viking Expeditions
+- circa 900 to 1066
+- Runic inscriptions but no written sources from this time
+- All from the western branch
+- Iceland discovery expedition -- important - 12.-13. century, literature written
+- What enabled vikings to spead?
+	- Drakarr - War Ship
+	- Knarr - Colonisation ship
+### Ísland
+- Discovery - Snaeland, Gardarshólm, Ísland >- Names, only Ísland stuck
+- Settlement - Ingold Arnarson circa 870 - Mythic coloniser
+- 20-40k people arrived over 60 years from mostly Norway and some from the British isles
+- Source for these are the Book of Icelanders and Book of Settlement by Ari the Learned
+- Settlers could take as much land as they could walk around in a day
+- Somewhat cooperative way of settling
+- There were some Irish monks
+- Landníáma -- landtaking
+- Laws mainly based on Norwegian ones and addapted them
+#### Societal structure
+- Free farmers -- Bóndi - They could be free outside of the Norwegian kingdom because the king started collecting taxes circa 9th century
+- Leaders -- Hoefdhingi - Local, bigger farmers
+- Slaves - From the British isles, many celts
+
+- Later more hierarchy evolved
+- Godi -- Chieftans
+- Priests, Clergy
+- 5 Families consolidated power in the 13th century and Iceland fell under Norwegian rule which ended the free Icelandic state period
+##### Establishment of the Althing
+- Local assemblies -- Things
+- Iceland - Same system
+- 930 - One central assembly = Althing, at the assembly plains = Thingvellir
+- Law based on Norwegian model
+- Problems taken to Althing if they could not be resolved by local Things
+- No records
+#### Adoption of Christianity
+- In the year 1000 officially, but reality is fuzzier
+- This meant one law for the all of Iceland, christian of course
+- It was not banned to be pagan but not in public only at home
+- Writing came with it
+- They wrote down even the pagan/folk texts because it was so removed from the world
+- Christian texts too but Sagas and myth, this is unique in all of europe
+- They wrote in Old Norse and not Latin, there was very little Latin
+- Language evolution -- Added two leters: TH, DH
+- Many gods - Christ, Thor etc., no contradiction
+- Education of the people - priests got educated in Norway
+- Schools started popping up, even lay people could attend, which was not the case in most places in europe
+- That is one of the reasons for folk literature being so aviable to us
+### Genres of Old Norse Literature
+- 12. - 14. century
+- Old Norse language
+- Poetry
+	- Skaldic poems -- Known authorship
+		- Complicated metres, thus the structure is very hard to change -- Could theoretically preserve the form from before it was written down
+		- Started at the court of Norwegian kings, 9th century
+		- Oral form, written down many centuries later (12th onward)
+		- Helps with reconstructing pronounciation and helps date the poems
+	- The Poetic Edda -- Mythological and heroic songs
+		- Codex Regius
+		- Simpler poetic meters
+		- If not for theis, the mythology would be lost
+#### Pagan religion
+- Two families of gods:
+	- Aesir: Odin, Thor, Baldr - some speculate that the germanic people introduced these
+	- Vanir: Frey, Freyja, Njoerd - some speculate that this is the older layer connected to fertility and germanic people adopted them
+- Younger Edda - Prosaic - Snorri Sturluson 
+	- Skald handbook with mythological content 
+	- beggining of 13th century
+	- Wanted to preserve Skaldic poetry because it was dying out
+	- Skald importance was waying
+	- Kennings - forms to fit the metre
+	- Snorri was educated and read a lot of mainland literature and he retells the Edda in that style
+	- He explained the gods rationally which the older Edda did not, it did not even question why the gods did what they did
+- Yggdrasil
+##### Mythological lays
+- Heroic petry epics
+- Only comprehensive sources of the pagan mythology
+- Titles:
+	- Voeluspá - The seeress's Prophecy
+	- Hávamál - Sayings of the High One (Ódin)
+	- Vafthrúdhnismál - Vafthrudnir's Sayings
+	- Grímnismál - Gromms Sayings
+- 10 in total
+- Prophecies could be invented in the 13th century due to christinisation but some claim they could be actual old pagan prophecies -- Thats why different approaches are important so you can make up your mind
+- Lot of contention on how accurate the Edda is
+- Preserved also in England: Beowulf, Widsith etc.; Germany: Song of Hildebrand, Song of the Nibelungs
+- READ: first 3 Helgi poems
+#### Sagas
+- Prosaic genre
+- Specific for Iceland and Norway
+- Genres:
+	- King/Royal -- konungasoegur
+		- Preserve royal deeds
+		- Inspired by Hagiographies - Saint stories
+	- Family -- íslendingasoegur
+		- Describes lives of first Icelanders, taking place in that period (870-930), written down also centuries later
+		- For sure changed a lot
+		- Places and names on Iceland
+		- Sagas abour discovering america (Vineland)
+		- Again, it is contested whether it is simply art or real attestations but most likely there is some truth
+	- Legendary -- fornaldarsoegur
+		- Take place out of Iceland
+		- Take place before the settlement
+		- Written down later than the Kingly and Familial stories
+		- Supernatural stuff
+	- Chivalric -- riddarasoegur
+		- Translated european stories and Indigenous Icelandic sagas
+		- Translated
+			- Fixed form
+			- Quite good translations
+			- Some are word for word with mainland versions
+			- Shows what the translator had to change for comprehensibility
+		- Indigenous
+			- Dont pretend to be historical
+			- Quite funny with interesting stories
+	- Contemporary + Bishops -- samtídasoegur
+		- Written in the time of writing (circa 13th century)
+		- Describe Iceland at that time
+		- Last days of the Icelandic free state
+		- Describe how the democratic system fell
+ - 
