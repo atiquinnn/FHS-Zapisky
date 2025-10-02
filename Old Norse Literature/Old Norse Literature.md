@@ -1,5 +1,5 @@
 # Old Norse literature
-- Grampheme notes: DH is the voiced dental fricative, TH is the unvoiced, OE is the O with umlaut
+- Grampheme notes: DH is the voiced dental fricative, TH is the unvoiced, OE is the O with umlaut eg Ð,Þ,Ö
 ## First Lecture
 - Different lenses of approach
 - Short test at the end
@@ -25,7 +25,7 @@
 - Laws mainly based on Norwegian ones and addapted them
 #### Societal structure
 - Free farmers -- Bóndi - They could be free outside of the Norwegian kingdom because the king started collecting taxes circa 9th century
-- Leaders -- Hoefdhingi - Local, bigger farmers
+- Leaders -- Höfðingi - Local, bigger farmers
 - Slaves - From the British isles, many celts
 
 - Later more hierarchy evolved
@@ -33,11 +33,11 @@
 - Priests, Clergy
 - 5 Families consolidated power in the 13th century and Iceland fell under Norwegian rule which ended the free Icelandic state period
 ##### Establishment of the Althing
-- Local assemblies -- Things
+- Local assemblies -- Þings
 - Iceland - Same system
-- 930 - One central assembly = Althing, at the assembly plains = Thingvellir
+- 930 - One central assembly = AlÞing, at the assembly plains = Þingvellir
 - Law based on Norwegian model
-- Problems taken to Althing if they could not be resolved by local Things
+- Problems taken to AlÞing if they could not be resolved by local Things
 - No records
 #### Adoption of Christianity
 - In the year 1000 officially, but reality is fuzzier
@@ -47,7 +47,7 @@
 - They wrote down even the pagan/folk texts because it was so removed from the world
 - Christian texts too but Sagas and myth, this is unique in all of europe
 - They wrote in Old Norse and not Latin, there was very little Latin
-- Language evolution -- Added two leters: TH, DH
+- Language evolution -- Added two leters to the latin alphabet: Þ, Ð - which they took from their runic alphabet
 - Many gods - Christ, Thor etc., no contradiction
 - Education of the people - priests got educated in Norway
 - Schools started popping up, even lay people could attend, which was not the case in most places in europe
@@ -68,7 +68,7 @@
 #### Pagan religion
 - Two families of gods:
 	- Aesir: Odin, Thor, Baldr - some speculate that the germanic people introduced these
-	- Vanir: Frey, Freyja, Njoerd - some speculate that this is the older layer connected to fertility and germanic people adopted them
+	- Vanir: Frey, Freyja, Njörd - some speculate that this is the older layer connected to fertility and germanic people adopted them
 - Younger Edda - Prosaic - Snorri Sturluson 
 	- Skald handbook with mythological content 
 	- beggining of 13th century
@@ -82,10 +82,10 @@
 - Heroic petry epics
 - Only comprehensive sources of the pagan mythology
 - Titles:
-	- Voeluspá - The seeress's Prophecy
+	- Völuspá - The seeress's Prophecy
 	- Hávamál - Sayings of the High One (Ódin)
-	- Vafthrúdhnismál - Vafthrudnir's Sayings
-	- Grímnismál - Gromms Sayings
+	- Vafþrúðnismál - Vafthrudnir's Sayings
+	- Grímnismál - Grimms Sayings
 - 10 in total
 - Prophecies could be invented in the 13th century due to christinisation but some claim they could be actual old pagan prophecies -- Thats why different approaches are important so you can make up your mind
 - Lot of contention on how accurate the Edda is
@@ -95,21 +95,21 @@
 - Prosaic genre
 - Specific for Iceland and Norway
 - Genres:
-	- King/Royal -- konungasoegur
+	- King/Royal -- konungasögur
 		- Preserve royal deeds
 		- Inspired by Hagiographies - Saint stories
-	- Family -- íslendingasoegur
+	- Family -- íslendingasögur
 		- Describes lives of first Icelanders, taking place in that period (870-930), written down also centuries later
 		- For sure changed a lot
 		- Places and names on Iceland
 		- Sagas abour discovering america (Vineland)
 		- Again, it is contested whether it is simply art or real attestations but most likely there is some truth
-	- Legendary -- fornaldarsoegur
+	- Legendary -- fornaldarsögur
 		- Take place out of Iceland
 		- Take place before the settlement
 		- Written down later than the Kingly and Familial stories
 		- Supernatural stuff
-	- Chivalric -- riddarasoegur
+	- Chivalric -- riddarasögur
 		- Translated european stories and Indigenous Icelandic sagas
 		- Translated
 			- Fixed form
@@ -119,9 +119,8 @@
 		- Indigenous
 			- Dont pretend to be historical
 			- Quite funny with interesting stories
-	- Contemporary + Bishops -- samtídasoegur
+	- Contemporary + Bishops -- samtídasögur
 		- Written in the time of writing (circa 13th century)
 		- Describe Iceland at that time
 		- Last days of the Icelandic free state
 		- Describe how the democratic system fell
- - 

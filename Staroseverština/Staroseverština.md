@@ -1,12 +1,12 @@
 # Staroseverština
 ## První hodina
 -st = mediopassivum
-d t dh = min. čas
+d t ð = min. čas
 ins = člen
 í = v
 ok = a
-aetlun = názoru
-toelu = výpočtu
+ætlun = názoru
+tölu = výpočtu
 theira = those/těch
 míns = mojeho
 manns = muže -- manr
@@ -16,4 +16,4 @@ ek = I/já
 spakast - an = nejmoudřejší - 3. stupeň
 sonar = syna
 byskups = byskupa
-froedhurbródhur = bratr mého otce / strýc
+fröðurbróöur = bratr mého otce / strýc
