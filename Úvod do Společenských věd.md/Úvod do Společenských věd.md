@@ -27,33 +27,75 @@
 	- Orální tradice
 	- Středověk -- Navazuje na antiku
 - Osvícenství -> modernizační změny
-	- 17. stol.
-		- Evropská akademie ovlvněna objevováním světa -> expozice jinak fungujícím kulturám
-		- Rozvoj technologií
-		- Změna celé společnosti
-			- Větší gramotnost
-			- Úpadek monarchismu
-			- Demokratizační ideje
-			- Industrializace -> Urbanizace -> Dělba práce
-		- Novověké univerzity více kontrolovány církví
-	- Fyzika :(
-		- Revoluce v dobovém myšlení -- Newton
-			- Univerzalita času a místa
-			- Měřitelnost a pochopitelnost světa
-			- Konec geocentrismu
-			- => Měnitelnost světa
-	- Dualita přírody a kultury
-		- Kartez.
-		- Descartes a spol.
-		- Dobyvatelský vztah k přírodě -- Antropocentrická kontrola nad světem
-	- => Empiricismus
-		- Zobecňování poznatků = teorie
-		- Nehotovost = testování teorií
-		- Science x Humanities
-	- Vyjasnění principů tvoření (vědeckého) vědění
-		- Indukce vs. Dedukce
+#### 17. stol.
+	- Evropská akademie ovlvněna objevováním světa -> expozice jinak fungujícím kulturám
+	- Rozvoj technologií
+	- Změna celé společnosti
+		- Větší gramotnost
+		- Úpadek monarchismu
+		- Demokratizační ideje
+		- Industrializace -> Urbanizace -> Dělba práce
+	- Novověké univerzity více kontrolovány církví
+- Fyzika :(
+	- Revoluce v dobovém myšlení -- Newton
+		- Univerzalita času a místa
+		- Měřitelnost a pochopitelnost světa
+		- Konec geocentrismu
+		- => Měnitelnost světa
+- Dualita přírody a kultury
+	- Kartez.
+	- Descartes a spol.
+	- Dobyvatelský vztah k přírodě -- Antropocentrická kontrola nad světem
+- => Empiricismus
+	- Zobecňování poznatků = teorie
+	- Nehotovost = testování teorií
+	- Science x Humanities
+- Vyjasnění principů tvoření (vědeckého) vědění
+	- Indukce vs. Dedukce
 - Cimrman
-	- 19.stol.
-		- Mobilizace informací
-		- Sociální revoluce -- změny mocénského uspořádání
-			- Požadavek lepšího vědění o společnosti, rodině, průmyslu, vládě, zdraví etc.
+#### 19.stol.
+- Mobilizace informací
+- Sociální revoluce -- změny mocénského uspořádání
+	- Požadavek lepšího vědění o společnosti, rodině, průmyslu, vládě, zdraví etc.
+- Pozitivismus
+	- Vědecké metody -- zkoumatelnost světa
+- Univerzity
+	- Neempirické vědy
+		- Filozofie
+	- Společenské vědy -- Společensko vědní
+		- Historie
+		- Ekonomie
+		- Politické vědy
+		- Sociologie
+		- Antropologie
+	- Empirické přírodní vědy
+	- Potlačováno kvůli neempiričnosti -- Psychologie, Právo, Geografie
+#### Kultura vs. Společnost
+- Kultura
+	- Životní způsoby -- Materiální
+- Společnost
+	- Politické společenství -- Abstraktní (ale reálné)
+#### Projekt modernity
+- Zamyšlené cíle
+	- Růst odborného vedení = spolehlivost rozhodování
+	- Historie má smysl = Rozumnost a pokrok jdou kupředu a lze se poučit
+	- Politické konflikty lze řešit racionálně
+- Nezamýšlené důsledky
+	- Více znalostí přináší nejistotu a riziko
+	- Historie se stává argumentem -- socio-mocensky utvářená
+- Otřas těchto představ -- válka a její brutalita
+	- 2. sv.
+	- Dekolonizace
+	- Dominance USA
+	- Emancipační procesy
+
+	- Ekonomický a technický růst
+	- Rozmach vzdělání
+
+	- Tlak na technizaci věd. poznatků a jejich zkomerčnění
+- --> Reflexe produkce vědění
+	- Končí idea nezaujatého vědce se proměňuje
+	- Každé vědění je ovlivněno okolnostm
+	- Neutralita, Objektivita, Parafigma, Reflexivita
+	- Věda se nevyskytuje mimo realitu
+	- Interdisciplinární přístupy
