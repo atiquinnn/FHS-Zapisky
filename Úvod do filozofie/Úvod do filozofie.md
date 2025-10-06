@@ -111,4 +111,26 @@ Návrhtrestu -- Druhá část
 				- Vědění
 					- Georgias -- Věření
 	- Sokratés -- K čemu je rétorika dobrá?
-		- Gorgias -- Rétorika má pod sebou vše - Rétorika je zápasnictví
+		- Gorgias -- Rétorika má pod sebou vše - Rétorika je zápasnictví -- Spravedlnost je na žácích (Odpovídá tím co dokáže ne tím co umí)
+			- Sokratés -- Učí ale učitel spravedlnosti?
+				- Gorgias -- Ano
+				- aha
+- Sokratés -- Realita rétoriky je jiná než to co Gorgias říkal o tom co rétorika je -- Jde o to přesvědčit ne k něčemu dojít společně
+	- Největší zlo pro člověka - Ne prohra ale nemít pravdu
+	- Pravé největší dobro začíná uvnitř
+	- Agon vs. Dialog
+	- Rétorika - 8 oborů
+		- Tělo
+			- Reálné
+				- Gymnastika
+				- Lékařství
+			- Zdánlivé
+				- Kosmetika
+				- Kuchařství
+		- Duše
+			- Reálné
+				- Soudnictví
+				- Zákonodárství
+			- Zdánlivé
+				- Rétorika
+				- Sofistika
