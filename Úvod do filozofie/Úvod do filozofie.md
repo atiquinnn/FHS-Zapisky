@@ -59,4 +59,17 @@ Návrhtrestu -- Druhá část
 		- Současní -- rychle vyřešeno
 		- Púvodní -- Ti kteří ho pomlouvali?
 - Obviněn z toho že je přírodní filozof a Sofista
-	- 
+	- Přirovnává Sofisty ke znelcům koní -- Kdo je znalý v lidství? -- Lidská zdatnost
+	- ""Nejsem sofista jelikož nemohu učitjelikož nevím
+	- Pak se prohlašuje za to že má "Pravou lidskou moudrost"
+		- Svědek -- Appolón
+		- Věštkyně řekla že Sokratés je nejmoudřejší -- Ale myslel že to není pravda
+			- Chodil po Athénách a ptal se dle něj moudřejších
+				- Politici -- Jen hezky mluví
+				- Básníci -- Netvoří moudrostí ale nadáním a božským ponuknutím -- Stejně jako věštci - doměnka že jsou nejmoudřejší ale nemohou to vysvětlit
+				- Řemeslníci -- Uměli co on neuměl - ale jen v něčem -- Tutéž chyba jako básníci
+					- Profesionalita v jednom oboru pro ně značí znalost všude jinde -- Aris. říká že to není tak
+			- Věštba musela znamenat něco jiného
+				- "Lidská moudrost nemá žádnou cenu" -- Zpochybnění toho co víme
+	- Snaží se občany učinit moudřejšími tím že jim ukazuje co neví -- služba bohu dne něj
+	- Smrt -- "Hanebná nevědomost" = Domnívání se toho že víme to co nevíme
