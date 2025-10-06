@@ -72,4 +72,43 @@ Návrhtrestu -- Druhá část
 			- Věštba musela znamenat něco jiného
 				- "Lidská moudrost nemá žádnou cenu" -- Zpochybnění toho co víme
 	- Snaží se občany učinit moudřejšími tím že jim ukazuje co neví -- služba bohu dne něj
-	- Smrt -- "Hanebná nevědomost" = Domnívání se toho že víme to co nevíme
+	- Smrt -- "Hanebná nevědomost" = Domnívání se toho že víme to co nevíme - nebojí se snmrti
+- První podoba péče o duši
+	- ne:
+		- Peníze
+		- Pověst
+		- Čest
+		- Tělo
+	- ale:
+		- Rozum
+		- Pravda
+		- Duše -- Nejdúležitější
+	- Ctnost tvoří vše ostatní a ta je tvořena péčí o duši
+#### Gorgias -- Platón
+- Dialog
+- 5 Postav
+	- Sokratés a Chairefón
+	- Kalliklés, Gorgias a Pólos
+- První slovo je "Válka" -- Důležité v řecké literární tradici -> Linka
+- Otázky
+	- Co je rétorika --> etika
+	- Spravedlnost
+	- Činnost v. pasivita
+- Rétorika vs. Filosofie / Vnější vs. Vnitřní život
+##### Rétorika
+- Pólos -- Rétorika je nejlepší umění
+	- Sokratés -- Polos jen monolog ne diaog
+- Co je oborem rétoriky?
+	- Pólos -- mluva i myšlení o věci - Největší a nejlepší věci
+		- Sokratés -- Každý obor řekne něco jiného
+			- Co je Největší dobro?
+				- Gorgias -- Mít moc - naplní všechny osobní potřeby
+					- Sokratés -- Hedonismus - rétorika = Výroba přemlouvání -> vládcotepectví
+	- Sokratés -- Co je oborem rétoriky?
+		- Gorgias -- Spravedlivé vs. Nespravedlivé -- Spravedlnost
+			- Sokratés -- Jaký typ přemluvy?
+				- Víra bez vědění
+				- Vědění
+					- Georgias -- Věření
+	- Sokratés -- K čemu je rétorika dobrá?
+		- Gorgias -- Rétorika má pod sebou vše - Rétorika je zápasnictví
