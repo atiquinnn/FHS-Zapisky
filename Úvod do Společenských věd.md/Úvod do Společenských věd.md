@@ -52,3 +52,8 @@
 		- Science x Humanities
 	- Vyjasnění principů tvoření (vědeckého) vědění
 		- Indukce vs. Dedukce
+- Cimrman
+	- 19.stol.
+		- Mobilizace informací
+		- Sociální revoluce -- změny mocénského uspořádání
+			- Požadavek lepšího vědění o společnosti, rodině, průmyslu, vládě, zdraví etc.
