@@ -17,3 +17,32 @@
 	- 30 otázek
 	- Min 18 bodů
 ## 1.
+- Základy společenského vědění
+- Institucionalizace spol. věd.
+- Věda jako společenská instituce
+### Kořeny společenských věd
+- Předmoderní vědění
+	- Metafyzika, Filozofie
+	- Kosmologie, náboženství, teologie
+	- Orální tradice
+	- Středověk -- Navazuje na antiku
+- Osvícenství -> modernizační změny
+	- 17. stol.
+		- Evropská akademie ovlvněna objevováním světa -> expozice jinak fungujícím kulturám
+		- Rozvoj technologií
+		- Změna celé společnosti
+			- Větší gramotnost
+			- Úpadek monarchismu
+			- Demokratizační ideje
+			- Industrializace -> Urbanizace -> Dělba práce
+		- Novověké univerzity více kontrolovány církví
+	- Fyzika :(
+		- Revoluce v dobovém myšlení -- Newton
+			- Univerzalita času a místa
+			- Měřitelnost a pochopitelnost světa
+			- Konec geocentrismu
+			- => Měnitelnost světa
+	- Dualita přírody a kultury
+		- Kartez.
+		- Descartes a spol.
+		- Dobyvatelský vztah k přírodě
