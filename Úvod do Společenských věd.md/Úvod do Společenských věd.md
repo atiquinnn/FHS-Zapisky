@@ -28,14 +28,14 @@
 	- Středověk -- Navazuje na antiku
 - Osvícenství -> modernizační změny
 #### 17. stol.
-	- Evropská akademie ovlvněna objevováním světa -> expozice jinak fungujícím kulturám
-	- Rozvoj technologií
-	- Změna celé společnosti
-		- Větší gramotnost
-		- Úpadek monarchismu
-		- Demokratizační ideje
-		- Industrializace -> Urbanizace -> Dělba práce
-	- Novověké univerzity více kontrolovány církví
+- Evropská akademie ovlvněna objevováním světa -> expozice jinak fungujícím kulturám
+- Rozvoj technologií
+- Změna celé společnosti
+	- Větší gramotnost
+	- Úpadek monarchismu
+	- Demokratizační ideje
+	- Industrializace -> Urbanizace -> Dělba práce
+- Novověké univerzity více kontrolovány církví
 - Fyzika :(
 	- Revoluce v dobovém myšlení -- Newton
 		- Univerzalita času a místa
