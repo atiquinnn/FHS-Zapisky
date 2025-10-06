@@ -45,4 +45,10 @@
 	- Dualita přírody a kultury
 		- Kartez.
 		- Descartes a spol.
-		- Dobyvatelský vztah k přírodě
+		- Dobyvatelský vztah k přírodě -- Antropocentrická kontrola nad světem
+	- => Empiricismus
+		- Zobecňování poznatků = teorie
+		- Nehotovost = testování teorií
+		- Science x Humanities
+	- Vyjasnění principů tvoření vědění
+		- Teorie -> Poznatky -> Dedukce
