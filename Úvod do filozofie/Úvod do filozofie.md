@@ -121,16 +121,18 @@ Návrhtrestu -- Druhá část
 	- Agon vs. Dialog
 	- Rétorika - 8 oborů
 		- Tělo
-			- Reálné
+			- Reálné - Techné
 				- Gymnastika
 				- Lékařství
-			- Zdánlivé
+			- Zdánlivé - Kolakeia
 				- Kosmetika
 				- Kuchařství
 		- Duše
-			- Reálné
+			- Reálné - Techné
 				- Soudnictví
 				- Zákonodárství
-			- Zdánlivé
+			- Zdánlivé - Kolakeia
 				- Rétorika
 				- Sofistika
+- Rétorika -- Na zdání spravedlnosti přesvědčuje o něčem pouze zdánlivě spravedlivém
+- Rétorika a Filozofie mají odlišné cíle
