@@ -50,5 +50,5 @@
 		- Zobecňování poznatků = teorie
 		- Nehotovost = testování teorií
 		- Science x Humanities
-	- Vyjasnění principů tvoření vědění
-		- Teorie -> Poznatky -> Dedukce
+	- Vyjasnění principů tvoření (vědeckého) vědění
+		- Indukce vs. Dedukce
