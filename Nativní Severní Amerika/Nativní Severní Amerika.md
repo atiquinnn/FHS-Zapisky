@@ -71,3 +71,29 @@
 	- Proč používat Indián a Eskymák?
 		- Neplete se
 		- Není užíváno pejorativně většinou
+	- I/E -i/e
+		- malé
+### Antropologický koncept kultury
+- Ne jen umění
+- Systém artefaktů societé etc.
+- Kultura jako adaptivní mechanismus
+	- Prostředí limituje technologie
+	- Infrastruktura informuje Strukturu (Společnost) informuje Superstrukturu (Světonázor)
+#### Kulturní areály
+- Oblast kde kultura má společné rysy
+- 1917 -- Clark Wissler
+	- Teorie substitučních areálů
+- Standardní model
+	- (V raně a pozdně koloniální době)
+	- 10
+		- Arktický areál
+		- Severovýchodní areál
+		- Southwest
+		- Great Plains
+		- Severozápadní Pobřeží
+	- (Jsou i historické)
+	- Geografický determinismus -- geografie -> substinence -> kultura -- Kulturní ekologie
+	- Kulturní difuze -- centrum nápadu -> periferie (Konfiguracionismus)
+##### Problémy a limity
+- Není příma korelace prostředí a kultury -- Environmentální determinismus
+- Arbitrární rysy
