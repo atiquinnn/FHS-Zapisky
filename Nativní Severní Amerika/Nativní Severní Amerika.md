@@ -97,3 +97,5 @@
 ##### Problémy a limity
 - Není příma korelace prostředí a kultury -- Environmentální determinismus
 - Arbitrární rysy
+- Hranice -- nereflektuje realitu
+- Zmrazeno v čase(ch) -- Ne stejná doba všech diskutovaných informací
