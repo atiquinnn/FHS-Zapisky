@@ -33,3 +33,6 @@ fröðurbróöur = bratr mého otce / strýc
 - Predlozka til -- "to"
 	- vzdy s genitivem
 	- til Noregs -- k Norsku
+- ó -- zapor
+- þaðan -- odtamtud
+	- dn -- odpoved na "odkud" -- héðan
