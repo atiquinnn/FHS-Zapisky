@@ -124,3 +124,54 @@
 		- Describe Iceland at that time
 		- Last days of the Icelandic free state
 		- Describe how the democratic system fell
+
+## Second lecture -- Judy Quinn
+- Why they were still relevant
+- Pre christian mythology -- death in battle
+- Prose inbetween poetry might be newer eg. reincarnation at end of 3rd poem of Helgi
+- Edda written down during transition to Norwegian rule -- Might be influenced by that
+- Law-speaker -- person who memorized all laws - only official
+- 999 - adoption of christianity
+- 1118-19 - law written down
+- Laws copied and changed across iceland -- different versions
+	- The real law was what the bishops had
+	- Law-speaker is not mentioned anymore and were replaced by them
+	- 2 Bishops
+		- Longest version of the law was the real one
+	- 2 equally long laws -- Skálholt Bishops is the real one
+- Homeostasis -- Preliterary culture is transformed during literacy -- what was deemed irrelevant is discarted
+	- Thus the poetry had to have meant something
+- Snorri Sturluson -- Lawmaker, Law-speaker
+	- Wrote about the mythology and poetry on iceland
+	- During civil war
+	- Was murdered by a servant of the Norwegian king
+	- Only copies from a century later were written down
+		- Different versions
+### Warrior-gods relationship
+- Æsir vs. Jötnar -- 2 families of gods
+	 - Ragna rök -- destinies of the powers
+- Æsir recruit human warriors to Valhöll to defeat the Jötnar
+- Valkyrja -- She-chooser of the slain
+	- Chooses best warrior on Valhöl to marry (Helgi says sure)
+	- Chosen by Valkyrja means you die unless she marries you
+	- Both human and divine
+	- Did not dissaper with adoption in Christianity at least in literature -- Cultural paganism
+		- Possibly parallels with angels
+- Metre
+	- Alliteration only per line -- Fornirðislag
+	- Long Short lines
+- Codex Regius -- pretty rough shape
+	- Not commisioned by a very wealthy person
+	- first third is about gods
+	- rest is about the human world
+	- Author tried to tie the poems together with the prose
+### Helgi
+- Senna -- insult exchange
+	- Make up large portions of the poems
+	- Nver directly Helgi but his men
+	- Almost never resolves -- ends in a real fight
+		- Only middle senna is resolved
+		- Giantess turns to stone
+- 3 poems with parallel plots
+- About what makes a great leader
+- Helgi and Valkyrie apparently reincarnated over and over
