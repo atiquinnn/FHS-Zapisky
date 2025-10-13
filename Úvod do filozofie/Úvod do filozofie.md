@@ -175,3 +175,36 @@ Návrhtrestu -- Druhá část
 		- "Arete" -- "Ctnost"
 	- Život nazýravý - Získávání vědění
 		- "Později..."
+	- Život výdělečný
+		- Cílem je bohatství
+		- Není dobré ale užitečné
+- Dobra která jsou dokanalá
+	- Hledá se to nejdobřejší -- Nejvíc cílovité
+	- Žádoucí samo pro sebe
+- "Dobro je činnost" -- Jaká je lidská činnost
+- Dle Aristotela člověk exituje kvůli něčemu -- nějákémů cíly
+	- Každá část člověka má svůj úkol který lze kvalifikovat
+	- Člověk má společné úkoly s dalšími bytostmi tudíž je vynecháme
+	- Co je vlastní pouze člověku?
+		- Život schopný jednání?
+		- Život jakožto činnost
+		- Rozum je vlastní pouze člověku (a řeč)
+- Co je tedy štěstí?
+	- Činnost duše a konání spjaté s rozumem -- Činnost duše na základě ctnosti
+- Štěstí = Skutečná činnost duše - ne těla -- v rámci celého života
+- Duše
+	- Rozumná část
+		- Má rozum
+		- Poslouchá rozum
+	- Nerozumná část
+		- Rostlinná
+			- Nemá účast na rozumu
+		- Žádostivá
+- Ctnosti
+	- Mravní
+		- "Není přirozená"
+		- Lze jí měnit
+		- Zvyk
+
+	- 
+
