@@ -136,3 +136,26 @@ Návrhtrestu -- Druhá část
 				- Sofistika
 - Rétorika -- Na zdání spravedlnosti přesvědčuje o něčem pouze zdánlivě spravedlivém
 - Rétorika a Filozofie mají odlišné cíle
+## 2.
+- Nejvyšší dobro jen kvůli jemu samému -- Aristoteles
+	- Dá nnám cíl díky kterému je vše jednodušší
+- Každá úvaha má vlastní míru přesnosti
+- Zabývání se dobrem je vesměs politika -- cíl jednotlivce se shoduje s cílem společnosti - dobré
+- Co je dobré/spravedlivé/krásné?
+	- Malá přesnost -- je dáno věcmi samímy
+	- Abstraktní koncepty umožňují větší přesnost -- Matematika etc.
+	- Hmota s sebou tahá nahodilost
+	- Přirozenost vs. Konvence -- Fysis vs. Nomos
+	- Etika nemůže být matematicky přesná
+- Descartes je přesvědčen o tom že jeho metody vytvoří absolutní věci -- Etiku
+	- Vymezení se proti Aristotelovi
+- Poslouchající etiky
+	- "Posluchač etiky nemůže být mladý"
+		- Důraz na zkušenost
+		- "Následování trpných hnutí (Kata Pathe -- Pathos)" -- Žije podle dojmů
+		- Mladý věkem či povahou
+	- "Má se řídit rozumem"
+		- Kata logon
+- Pathos vs. Logos jako východisko lidského jednání
+- "Cílem etiky je stát se dobrým"
+- Talos einai praxis

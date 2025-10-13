@@ -174,6 +174,7 @@
 		- Giantess turns to stone
 - 3 poems with parallel plots
 - About what makes a great leader
+	- Mythological resolution of this -- divinely touched are usually the better leaders
 - Helgi and Valkyrie apparently reincarnated over and over
 	- Compiler says that reincarnation was in the ancient times but in their time he calls it a delusion
 
