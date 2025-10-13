@@ -137,6 +137,7 @@ Návrhtrestu -- Druhá část
 - Rétorika -- Na zdání spravedlnosti přesvědčuje o něčem pouze zdánlivě spravedlivém
 - Rétorika a Filozofie mají odlišné cíle
 ## 2.
+### Aristoteles -- Etika
 - Nejvyšší dobro jen kvůli jemu samému -- Aristoteles
 	- Dá nnám cíl díky kterému je vše jednodušší
 - Každá úvaha má vlastní míru přesnosti
@@ -210,3 +211,5 @@ Návrhtrestu -- Druhá část
 - Ctnost je hexis -- habitus -- stav, trvalý stav
 - Ctnost se vyhýbá extrémům -- je mid
 	- Stejně tak i vše ostatní
+- Střed je určen rozumem člověka který je rozumný
+- Rozumný člověk se správně rozhodne v situacích kde je to těžké
