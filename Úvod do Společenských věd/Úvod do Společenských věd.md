@@ -83,7 +83,7 @@
 - Nezamýšlené důsledky
 	- Více znalostí přináší nejistotu a riziko
 	- Historie se stává argumentem -- socio-mocensky utvářená
-- Otřas těchto představ -- válka a její brutalita
+- Otřes těchto představ -- válka a její brutalita
 	- 2. sv.
 	- Dekolonizace
 	- Dominance USA
@@ -99,3 +99,38 @@
 	- Neutralita, Objektivita, Parafigma, Reflexivita
 	- Věda se nevyskytuje mimo realitu
 	- Interdisciplinární přístupy
+## 2. Sociologie
+- tak nějak všechno
+### Doba vzniku
+- Kouř
+- Francouzská revoluce
+	- Radikální politická proměna
+		- vůbec idea že to může být organizováno jinak
+		- Současný řád nemusí být okay
+- Industriální revoluce
+	- Pokrok je normou
+	- Urbanizace
+- Marx & Engels
+- To co je vybudováno se zahazuje např. vodní kanály v Anglii
+	- "Vše co je vybudováno se mění v páru"
+- Dvě revoluce ignoruje aspekty doby
+	- Kolonialismus
+	- Imperialismus
+- Mrtví bílý pánové
+### Záměry sociologie
+- Jak drží společnost dohromady?
+- Jak se společnost mění?
+- Zabývá se sociálními fakty -- Emile Durkheim
+- Individualita je významná až ve společnostech s pokročilou dělbou práce
+- Jak je individuální jednání ovlivněno a zakotveno ve společnosti
+- Hodně jevů se vysvětluje psychologicky a ne sociologicky
+### Vstup do dospělosti
+- Fragmentace vstupu do dospělosti = vynořující se dospělost
+- Dříve: --> škola --> práce -> sňatek --> rodičovství --> bydlení
+- Teď: Random (Většinou pro vzdělanější skupiny obyvatelstva)
+### ...
+- Sociologická imaginace -- Charles W. Mills
+	- Osobní situace --> Veřejný problém
+	- Vlastní potíže v historickém a strukturálním kontextu 
+- Nesamozřejmost každodennosti
+- Kulturní šok ve vlastní kultuře -- zpochybnění naší představy
