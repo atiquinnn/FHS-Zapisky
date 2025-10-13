@@ -172,5 +172,6 @@ Návrhtrestu -- Druhá část
 		- Štěstí podle Aristotela nemá být odtržitelné
 		- Čest stojí na ostatních
 		- Proč usilují o uznání? -- Záleží jim na nich -- Vlastní hodnota je tvořena uznáním někoho koho uznáváte
-
+		- "Arete" -- "Ctnost"
 	- Život nazýravý - Získávání vědění
+		- "Později..."
