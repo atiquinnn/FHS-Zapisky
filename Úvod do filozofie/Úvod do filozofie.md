@@ -159,3 +159,18 @@ Návrhtrestu -- Druhá část
 - Pathos vs. Logos jako východisko lidského jednání
 - "Cílem etiky je stát se dobrým"
 - Talos einai praxis
+- Co je největší dobro -- Shodnuto na názvu
+	- Zdařenost, Blaženost, Štěstí
+- Představa o štěstí se různí a mění během života
+	- Často je to tím co člověk postrádá
+- Komentáře o míněních štěstí
+	- Život poživačný
+		- Dle nich je to Slast -- "Nejnižší třída"
+		- "Lidé otrocké povahy" -- Aristoteles to zde neřeší
+	- Život politický - Veřejné činný
+		- Dle nich je to čest -- To není dle Aristotela to co je cílem
+		- Štěstí podle Aristotela nemá být odtržitelné
+		- Čest stojí na ostatních
+		- Proč usilují o uznání? -- Záleží jim na nich -- Vlastní hodnota je tvořena uznáním někoho koho uznáváte
+
+	- Život nazýravý - Získávání vědění
