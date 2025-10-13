@@ -206,5 +206,7 @@ Návrhtrestu -- Druhá část
 		- Lze jí měnit
 		- Zvyk
 
-	- 
-
+	- -----
+- Ctnost je hexis -- habitus -- stav, trvalý stav
+- Ctnost se vyhýbá extrémům -- je mid
+	- Stejně tak i vše ostatní
