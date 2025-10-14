@@ -45,3 +45,8 @@
 - Tvorba vztahů
 - Základ nerovnosti
 -- bruhhhh ts 3 boring 5 me --
+- Etologie -- ritualizované chování pomáhající kohezi skupiny
+	- Pozdravy a jejich opětování
+- Úsměv je vrozený
+- Dar
+	- Pivinná účast
