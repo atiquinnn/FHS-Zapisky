@@ -29,3 +29,19 @@
 	- dráždivost (Reaguje na okolí)
 	- časový tvar (vzníká, mění se a zaniká)
 	- reprodukuje se
+## Druhá hodina -- Člověk jako společenský živočich
+- Člověk se rodí nehotový
+### Sběračsko-lovecké společenství
+- ťKungvé - společné místo kam se vrátit
+	- 100msqr
+	- Významné -- domov
+- Sezónní charakter
+	- Tlupy -- rozdělení se
+	- Poté se scházejí
+- Dělba práce
+- Pravidelný sběr
+#### Lov a společné jídlo
+- Skupinový altruismus
+- Tvorba vztahů
+- Základ nerovnosti
+-- bruhhhh ts 3 boring 5 me --
