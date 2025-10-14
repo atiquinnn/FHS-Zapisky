@@ -99,3 +99,185 @@
 - Arbitrární rysy
 - Hranice -- nereflektuje realitu
 - Zmrazeno v čase(ch) -- Ne stejná doba všech diskutovaných informací
+## 2. Oděv a tělěsné modifikace
+### Antropologie oděvů a ozdob
+- Kultirní univerzálie -- každá společnost to má
+- Praktické a symbolické aspekty
+- Fyzická a magická ochrana
+----------------------------------------
+- Oděv = Artefakt co zahalují tělo
+- Ozdoby = Zvýraznění části těla
+- Tělěsné modifikace
+	- = Změna fyzycké podoby těl
+	- dočasné -- Barvení
+	- permanentní -- Tetování, Tvarování lebky
+#### Symbolické funkce oděvu, ozdob, modifikací
+- Estetická a erotická
+- Individualizační
+	- Chceme tím vyjádřit naši individualitu
+- Manifestace příšlusnosti
+	- Tj. Uniformy, Ćíra etc.
+- Manifestace hierarchie
+	- Ie. Drahá kabelka, vojenské uniformy
+- Rituální
+	- Ie. Jarmulka
+- Nevylučují se navzájem
+### Stereotypizace Indiánů
+- Média -- Filmy
+	- Pohádky
+- Kostýmy (Halloween)
+### Oděvy kulturních areálů
+- Informováno lokálními zdroji k výrobě
+#### Velké planiny
+- Lovci bizonů / pěstitelé kukuřice
+- 2 Suroviny
+	- Jelenice
+		- Běžný oděv
+	- Bizoní kůže
+		- Pláště, Pláště stanu
+- Činěno voskem
+- Každodenní oblečení -- méně zdobený (Logicky)
+- Zdobené slavnostní oděvy
+	- Urzoní ostny
+	- Výšivka korálky
+	- Malba barvami
+	- Kožené třásně, chlupy a vlasy
+	- Pera dravých ptáků / Části těl zvířat
+##### Mužské
+- Bederní rouška
+	- Symbol mužství
+- Mokasíny
+	- Kožené boty s měkkou podrážkou
+	- Zdobené korálkama (Geomatrické tvary)
+- Kožešinové pláště
+	- Zdobeno malbou
+	- Nahrazeno později dekou (Hudson bay)
+	- Různé způsoby nošení
+- Leginy
+	- 2 Nohavice přivázané k opasku
+- Košile (Zimní/Válečný oděv)
+	- Tvar T rozšířeného dole
+##### Ženské
+- Šaty
+	- Dlouhé
+	- Dlouhý rukáv
+	- Zdobené výšivkou
+- Mokasíny
+- Krátké leginy
+- Pláště
+- Mokasíny
+##### Ozdoby
+- Chestplate - V i H
+- Čelenky
+	- Mnoho per
+	- Dlouhé
+	- Položené nebo vztyčené pera
+- Rouč
+	- Ozdoba hlavy s chlupy z jelenců na červeno
+	- Pod bradou k hlavě
+##### Úprava vlasů
+- Smuteční událost -- Ostříhání vlasů
+###### Muži
+- Dva copy
+- Vyholená část vlasů - Pěstitelé kukuřice
+###### Ženy
+- Dva copy
+##### Tělesné modifikace
+- Odstranění tělesného ochlupení
+	- Obočí někdy i řasy
+	- Vousy
+	- Prostě všude
+- Piercingy ušních lalučků
+- Barvení těla
+	- Ne jen válečné !! -- to byly ochrané
+- Tetování -- ne moc často
+#### Arktický areál
+- Lovci tuleňů, rybáři, velrybáři
+- Mědění inuité
+- Aleuté
+- Inupiaté
+- Srst karibů -- Základní surovina -- Hřeje af
+- Nevyčiněné kožešiny
+- Systém vrstvení
+- Primárně praktické
+##### Mužské
+- Dvě vrstvy
+	- Chlupy dovnitř
+	- Chlupy ven
+- Kalhoty
+- Parka
+	- Kabát ke kolenům s kapucou
+##### Ženské
+- Stejné vrstvení
+- Naatsik
+	- spodní prádlo
+- Kratší parka
+	- s pruhem látky tj. polštář
+	- Větší kapuca - Na nošení dětí
+##### Úprava vlasů
+###### Muži
+- Dlouhé volné
+- Krátké
+- Kníry a vousy
+###### Ženy
+- Dva copy
+- Volné
+##### Modifikace
+- Tetování
+	- Prošívání šlachy se sazemi - auvajs
+	- Rukávy
+	- Ženské
+		- Obličej
+		- Ruce
+	- Mužské
+		- Ruce
+		- Hruď -- velrybář
+	- Ethnorevival v současnosti
+- Piercingy
+	- Labretty - Vysoký status
+#### Severozápadní pobřeží
+- Specializovaný rybáři
+##### Oděv
+- Cypřišové lýko
+- Mazáno olejem
+- Twining
+- Rychlé přijetí evropského oblečení
+- Omotáno kolem těla ale různé způsoby
+- Teplo -- nazí
+- Ženy -- sukně (Provázky lýka)
+- V zimě mokasiny
+- Pletené klobouky
+- Čilkatský plášť
+	- Vlna koz + lýko
+	- Obrazce antropomorfní a zoomorfní tvary
+--------------------------------------
+- Muži
+	- Vousy
+- Tetování
+- Kroužky v nose
+- Labretty
+- Deformace lebek
+#### Severozápad
+- Pueblani -- zemědělci
+- Pastevci -- Apache
+- Bavlněné oděvy
+- Bederní rouška a tunika - muži
+- Bavlněné čelenky (Bez peří)
+- Dlouhé šaty + košile a přehoz - ženy
+- Navažské pokrývky - Navažské ovce
+	- Pláště
+	- Krásně tkané
+- Mnoho šperků -- tyrkys + stříbro
+- Krátké vlasy
+#### Severovýchod
+- Kopaničáři a lovci
+- Kolem velkých jezer
+- Podobné planinám
+- Velmi brzká adopce evropských oděvů
+- Mužské suknice
+- Kabáty střihu britských uniforem
+- Shoulderbag
+- Čapky
+- Skalpové kadeře -- Číro
+- Tetování
+- Kroužky v nose, náušnice
