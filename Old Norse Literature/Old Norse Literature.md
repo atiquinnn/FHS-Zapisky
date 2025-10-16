@@ -178,3 +178,69 @@
 - Helgi and Valkyrie apparently reincarnated over and over
 	- Compiler says that reincarnation was in the ancient times but in their time he calls it a delusion
 
+## Third lecture -- Madita Knöpfle -- Narratology
+- Pre modern literary practices x theory
+### Historical situatedness
+- Literature -- Bókmenntir
+	- Written and spoken
+	- Also means history to some extent
+	- Before the 19th century it meant scholarship -- Connected with nationbuilding
+	- Skáldskapr -- old word that might be more simlar to the concept of literatture
+- Premodern
+	- Manuscripts till 19th century on Iceland
+	- Single copies
+	- Public or social readings - No time for reading as a leisure
+		- Texts composed differently to be better for reading aloud
+	- Read orally or aloud
+	- No concept of author -- texts altered
+- Sagnaskemtun -- saga enterntainment
+- Different versions of sagas
+- Untill 18th century -- only church could print -- handwritten secular texts
+- Radio replaced evening wakes -- oral homely readings
+- First Icelandic novel -- 1850 -- Piltur og Stúlka
+### Theory
+- Classical narratologies
+	- Text-centered grammar of narrative
+	- Assumed all texts had a sort of grammar of story
+	- Developed on modern novels
+	- Diachronic narr.
+- Post-classical narratologies
+	- Context-Oriented tool
+	- Post-structuralist (Feminist, postcolonial..)
+	- 2000s
+	- Synchronic narr.
+	- Rhetorics
+	- Each time has its own aproach
+- They do not exclude eachother
+- (Wolf Schmid - Narratology -- 2010)
+- Monika Fludernik -- Diachronization of narratology
+	- Evolution of scene shifts in 50 historical english texts
+	- Middle ages -- for listeners
+	- Shift from rhetorical device to a que or refference to saga traddition
+### Analysis
+- "Nú er þar máls at taka" -- "Now let us speak of"
+	- Many translations depending on interpretation of the device
+	- Personal v. impersonal translations -- ie. "Now the tale is to be taken up"
+- Aphodos -- Sideplot to main story transition
+	- Nunc ad cetera, unde incepimus, regrediamur -- Adam of bremen I:17
+- Nú er þar máls at taka
+	- Homily book
+		- 1200s 
+		- shift of topic 
+		- sermon
+	- Njáls saga 
+		- 1400s 
+		- Returns story to a character that was introduced in the beginning but the plot went on withouth her
+	- Huldarsaga
+		- 1800s
+		- Newly composed saga based on a mentioned lost saga
+		- Might have been used as a stylistic device to sound closer to mediaval sagas
+	- Piltur og stúlka
+		- 1850
+		- Tie different parts of the story
+		- Phrases from sagas used in a text that was designed to be read quietly
+		- Ends in a sagic way as well
+	- Kristinhald undir Jökli
+		- 1968
+		- Generic cue
+		- Characters in novel compared to characters made up in old stories
