@@ -134,3 +134,4 @@
 	- Vlastní potíže v historickém a strukturálním kontextu 
 - Nesamozřejmost každodennosti
 - Kulturní šok ve vlastní kultuře -- zpochybnění naší představy
+## 3. Úvod do antropologie
