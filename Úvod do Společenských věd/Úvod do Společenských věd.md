@@ -131,7 +131,52 @@
 ### ...
 - Sociologická imaginace -- Charles W. Mills
 	- Osobní situace --> Veřejný problém
-	- Vlastní potíže v historickém a strukturálním kontextu 
+	- Vlastní potíže v historickém a strukturálním kontextu
 - Nesamozřejmost každodennosti
 - Kulturní šok ve vlastní kultuře -- zpochybnění naší představy
-## 3. Úvod do antropologie
+## 3. Úvod do antropologie (Do sociokulturní antropologie)
+- Stavba lidského těla
+- Rituály ?
+### Konstituování společenských věd
+- 19. stol.
+- Věda v kontextu sociokulturněpolitických podmínek
+- Antropologie reaguje jinak
+	- Oběvování mimo evropu -- kolonialismus
+	- "Ušlechtilý divoch"
+	- Romantismus -- oběvení a podmanění jinakosti
+	- Zbírkotvornost -- "protoantropologie" -- doslova krádež =>
+	- První muzea -- 70s 19. stol.
+		- Tvoření příběhu k výstavě
+	- Jak vykládat jiné světy ?
+		- Napřed etnocentrický -- evoluceesque přístup -- VB a USA
+		- Jedno velké lidstvo -- Různá rychlost rozvoje
+			- zkoumání "primitivních a nerozvinutých"
+		- "Armchair antropology" -- porovnávání a tvoření exogenních rámmců
+- Co je kultura?
+	- Colere -- pěstovat
+		- Zbaveno procesu -> jen výsledek
+	- "Kultura je to co tvoří člověk"
+- Aby bylo možno zkoumat člověka -- Holismus
+- Holismus
+	- Nelze sledovat jeden aspekt kultury je potřeba celek
+- Universalismus vs. Relativismus
+- problém etnocentrismu
+	- "Méně vyvinuté světy" -- lidé se mělx fajn
+- Relativismus
+	- Nelze porovnávat kultury
+- Biologický determinismus
+	- Člověk je dán biologicky -- >:(((
+- Kulturní determinismus
+	- Člověk je dán kulturou
+	- To zajímá antropologii
+- Obecná antropologie
+	- Člověk je biokulturní
+	- Vznik v USA
+	- Zabývání se americkými indiány -- genocida
+	- Zachycení kultury než zmizí
+- Kulturní a sociální antropologie
+	- Příbuzné se sociologií
+	- Důraz na kulturu a societé
+- Etnografie
+- 60s - zlom v přístupu
+	- Emická perspektiva -- perspektiva aktéra
