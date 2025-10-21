@@ -50,3 +50,7 @@
 - Úsměv je vrozený
 - Dar
 	- Pivinná účast
+## Vesnice a město
+- Sběr a lov -> zemědělství -- neolitická revoluce
+- Agrikultura je těžká -> ale stabilní
+
