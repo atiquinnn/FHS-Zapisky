@@ -351,8 +351,24 @@
 	- Beans
 - Ovsucha vodní
 	- Indiánská rýže
-### Pueblo
+- Tlučka -- past
+- Sběr javorovýho syrupu
+- Sagamite -- kukuřice s tukem
+- Succotash -- kukuřice s fazolemi
+- Knedlíky z kukuř. mouky
+### Pueblo -- Jihozápad
 - Spec. zemědělci
+- Fakt sucho ale velký řeky
+- Mesy -- náhorní plošiny
+- Pole obdělávají muži
+- Chov, lov a sběr
+- Komunální lov králíků
+- Alimentární zvyklosti
+	- kukuřičné placky -- piki - rituální
+	-  jídla deně
 ### Velké planiny
-- Lov bizonů
-
+- Lov bizonů + pastevci
+- Žádnej les
+- Planina není prérie
+- Kopcovitá krajina
+- Bizon -- zdecimovaná populace američany
