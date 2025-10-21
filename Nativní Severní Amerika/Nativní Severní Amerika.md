@@ -281,3 +281,78 @@
 - Skalpové kadeře -- Číro
 - Tetování
 - Kroužky v nose, náušnice
+## 3. Substitnenční strategie
+- Způsob obživy ovlivňuje sociální strukturu
+### Substinenční strategie
+- Lov a sběr
+	- Dost pravděpodobně první
+	- Většina stravy je získána sběrem ne lovem
+	- Sice dělba práce ale ne tržní
+- Kopaničářství
+	- Záměrné pěstování
+	- Jen okopávají, ne pluhy
+	- Chov živočichů
+	- Ne moc hierarchie a dělba asi tak stejně
+- Pastevectví
+	- Nomadický až seminomadický
+	- Obchod =>
+	- Přebytek produkce
+	- Hierarchie
+- Intenzivní zemědělství
+	- Pluhy se zvířaty
+	- Velké poulace
+	- Vysoká specializace
+- Průmyslové zemědělství
+	- Prostě tak
+------------------------------------------------
+- Subst. strat. ovlivňuje usazení a velikost populace ale jsou vyjimky
+### Arktický areál
+- Málo sběru
+- Více lovu
+- Dlouhá zima
+- Žádné dřevo téměř -- naplavené ano
+- Léto -- cesta na jih
+- Malá druhová diverzita
+	- Tuleň kroužkovaný
+		- Maso a tuk
+	- Sob karibú
+		- Kožešina
+- Způsoby lovu
+	- Tuleň
+		- Harpuna s oddělitelným hrotem
+		- Detektor tuleňů
+	- Jelen
+		- Z kajaku
+		- Mohyla -- Inuksuk
+		- V trychtýř ve vodě na jeleny
+- Zvíře se musí chtít nechat ulovit -- musí se usmířit
+- Využívá se celé zvíře
+- Akutuq -- tulení tuk s bobulema
+### Severozápadní pobřeží
+- Rybářství
+- Lesnaté, mírné podnebí, vlhko
+- Složitá spol. organizace bez zemědělství
+- Hrozně moc lososů
+	- Pasti na lososy
+		- Vrš
+		- Vertikální síť (Jill net)
+		- Udice
+	- Uzení a sušení
+### Severovýchodní lesy
+- Kukuřice
+- Lov a sběr
+- Indian rice
+- Stavba prkenných domů
+- Stavba kánoí
+- Velká jezera
+- Tři sestry -- permakultura
+	- Corn
+	- Squash
+	- Beans
+- Ovsucha vodní
+	- Indiánská rýže
+### Pueblo
+- Spec. zemědělci
+### Velké planiny
+- Lov bizonů
+
