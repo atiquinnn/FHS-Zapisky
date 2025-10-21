@@ -372,3 +372,5 @@
 - Planina není prérie
 - Kopcovitá krajina
 - Bizon -- zdecimovaná populace američany
+	- Bizon nemigruje, bizon se toulá
+- Kolektivní lov -- trestání individuálních lovů
