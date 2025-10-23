@@ -244,3 +244,50 @@
 		- 1968
 		- Generic cue
 		- Characters in novel compared to characters made up in old stories
+## Did vikings have a soul?
+- Saul (Saiwalo), Líkamr (Lichunhamo) -- From christianity
+- Hamr -- Protobaltofinnic - Skin, Gestalt, Chemise
+	- Original conception of what a being is
+	- Used in literature during:
+		- Overcoming obstacles -- Flying
+		- Fighting -- Increasing strenght -- Berserker - Not of one shape -- Eigi Einhamr -> They hamask
+		- Magic -- Shapeshifters - No specified hamr
+	- Hamför -- Journey of hamr
+	- Hamslauss -- Person out of their mind
+	- Hamstolin -- Shapeless/Mindless
+	- Hamingja -- Happiness (in Icelandic)
+- Change towards a body-soul distinction?
+	- Originally no distinction in hamr propably
+		- í trollz hami (In a trollish shape) -- Seeress's prophecy
+			- Both mental and real shape
+		- í arnar ham -- Eagleish shape/property -- Vaftrúðnismál -> But in Snorra Edda -- it is interpreted as someone being physically eagle-like
+	- Hamr as a state of mind connected to body state
+		- berserk's fury -- hamrammr
+			- Connected to animal shapes
+			- Ber - serkir -- bear + skirts
+			- Úlf - heðnar -- wolf + skins
+		- Berserkers change their mental shape to get strenght
+		- Archæological evidence - depiction of animal-headed fighters, fighter fighting bears
+		- Cult of furious warriors already in germanic areas on continental europe
+		- Possibly furries?
+		- Hamrammr could mean werewolf in some contexts
+	- Hamr as a physical meaning but still some mental aspects
+		- Völsunga saga
+			- Sigmund
+			- Úlfhamir -- wolf skins
+			- Wolf nature comes over people
+	- Hamr as physical only
+		- heimskringla - Snorri Sturluson
+			- Óðin skipti hömum -- Odin could change his shape
+		- Christianised thinking
+		- Later sagas
+			- vargs hamnum - wolf's hamr
+			- fiaðrhamr - flying contraption
+	- Hamr as mental only
+		- Egils saga -- sem hamstoli væri -- (and was) as one posessed -- "as if hamr was stolen"
+		- Bærings saga -- hamstoli -- lost his mind -- hamr was stolen
+		- Hamr = Inner shape
+	- => Concept of identity changes
+	- It was a tradition not influenced by greek ideas of the soul
+		- If you change your mind you change your body
+	- The eyes sometimes remain the same
