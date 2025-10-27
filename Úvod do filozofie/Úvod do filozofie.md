@@ -213,3 +213,34 @@ Návrhtrestu -- Druhá část
 	- Stejně tak i vše ostatní
 - Střed je určen rozumem člověka který je rozumný
 - Rozumný člověk se správně rozhodne v situacích kde je to těžké
+## 4. -- Poznání u platóna
+- Théseova loď
+	- Ukázka lidského bytí na neživých objektech
+	- V čem spočíva kontinuita když ne materiálně
+- Hérakleitos z Efesu
+	- "Vše plyne"
+	- "Nevstoupíš dvakrát do téže řeky"
+- Parmenidés z Eleje
+	- "Posuď rozumem"
+	- Z něj vychází zbytek mysletelů v řecku
+- Anaxagorás
+	- Stejnorodé x Nestejnorodé části
+- Empedoklés -- 4 živly
+- Leukippos a Démokritos
+	- Koncept atomů
+	- Je jak něco tak i nic
+	- "Nic nevzniká ani nezaniká
+- Sokratés
+	- Nic nenapsal
+	- Epistemologie
+	- "Nový způsob tázání"
+		- "Co to je?"
+	- Nemůžeme poznat nic nového
+		- "To co vim nehledam to co nevim nevim kde hledat"
+		- Platón - "Duše je nesmrtelná -- učení se je vzpomínání si"
+	- Nemůžeme poznat nic skrze mysly
+		- Smysly jsou nepřesné
+	- Nemůžeme poznat nic proměnlivého
+		- 
+	- V dosavadních výkladech přírody chybí otázka "Kvůli čemu?" -- být teolelloogický
+		- Opravdové příčiny kde?
