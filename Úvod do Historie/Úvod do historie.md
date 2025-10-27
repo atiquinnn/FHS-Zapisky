@@ -95,3 +95,10 @@
 - Sezónní cesty
 - Letní byty
 - Turistika -- Značení cest
+## 4.
+- Religiozita s mění
+- Víra daná vládou
+- Osvícenští reformátoři
+	- Náboženská tolerance
+	- Nemrhat silou na pronásledování fellow křesťanů
+	- Není to zrovnoprávnění -- víra 2. kat.
