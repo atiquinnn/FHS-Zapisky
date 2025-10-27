@@ -180,3 +180,14 @@
 - Etnografie
 - 60s - zlom v přístupu
 	- Emická perspektiva -- perspektiva aktéra
+## Úvod do psychologie
+### Co je psychologie
+- Empirická věda
+- Pomáhající profese
+    - terapie
+    - forenzní
+    - diagnostika
+### Trojstupňový model
+- Věda
+- Věda a vzdělání
+- Profese
