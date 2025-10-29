@@ -17,3 +17,22 @@ spakast - an = nejmoudřejší - 3. stupeň
 sonar = syna
 byskups = byskupa
 fröðurbróöur = bratr mého otce / strýc
+## Druhá hodina
+- Ukazovaci zajmeno sá -- on
+	- s se mění na þ
+	- sá pred i po
+- Predlozka í
+	- odpovida -- anglickemu ´in´
+	- 3p
+		- kde -- "v"
+		- í Noregi
+	- 4p
+		- kam -- "do"
+		- í Noreg
+	- plati u vetsiny predlozek
+- Predlozka til -- "to"
+	- vzdy s genitivem
+	- til Noregs -- k Norsku
+- ó -- zapor
+- þaðan -- odtamtud
+	- dn -- odpoved na "odkud" -- héðan

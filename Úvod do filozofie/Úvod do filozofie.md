@@ -136,3 +136,111 @@ Návrhtrestu -- Druhá část
 				- Sofistika
 - Rétorika -- Na zdání spravedlnosti přesvědčuje o něčem pouze zdánlivě spravedlivém
 - Rétorika a Filozofie mají odlišné cíle
+## 2.
+### Aristoteles -- Etika
+- Nejvyšší dobro jen kvůli jemu samému -- Aristoteles
+	- Dá nnám cíl díky kterému je vše jednodušší
+- Každá úvaha má vlastní míru přesnosti
+- Zabývání se dobrem je vesměs politika -- cíl jednotlivce se shoduje s cílem společnosti - dobré
+- Co je dobré/spravedlivé/krásné?
+	- Malá přesnost -- je dáno věcmi samímy
+	- Abstraktní koncepty umožňují větší přesnost -- Matematika etc.
+	- Hmota s sebou tahá nahodilost
+	- Přirozenost vs. Konvence -- Fysis vs. Nomos
+	- Etika nemůže být matematicky přesná
+- Descartes je přesvědčen o tom že jeho metody vytvoří absolutní věci -- Etiku
+	- Vymezení se proti Aristotelovi
+- Poslouchající etiky
+	- "Posluchač etiky nemůže být mladý"
+		- Důraz na zkušenost
+		- "Následování trpných hnutí (Kata Pathe -- Pathos)" -- Žije podle dojmů
+		- Mladý věkem či povahou
+	- "Má se řídit rozumem"
+		- Kata logon
+- Pathos vs. Logos jako východisko lidského jednání
+- "Cílem etiky je stát se dobrým"
+- Talos einai praxis
+- Co je největší dobro -- Shodnuto na názvu
+	- Zdařenost, Blaženost, Štěstí
+- Představa o štěstí se různí a mění během života
+	- Často je to tím co člověk postrádá
+- Komentáře o míněních štěstí
+	- Život poživačný
+		- Dle nich je to Slast -- "Nejnižší třída"
+		- "Lidé otrocké povahy" -- Aristoteles to zde neřeší
+	- Život politický - Veřejné činný
+		- Dle nich je to čest -- To není dle Aristotela to co je cílem
+		- Štěstí podle Aristotela nemá být odtržitelné
+		- Čest stojí na ostatních
+		- Proč usilují o uznání? -- Záleží jim na nich -- Vlastní hodnota je tvořena uznáním někoho koho uznáváte
+		- "Arete" -- "Ctnost"
+	- Život nazýravý - Získávání vědění
+		- "Později..."
+	- Život výdělečný
+		- Cílem je bohatství
+		- Není dobré ale užitečné
+- Dobra která jsou dokanalá
+	- Hledá se to nejdobřejší -- Nejvíc cílovité
+	- Žádoucí samo pro sebe
+- "Dobro je činnost" -- Jaká je lidská činnost
+- Dle Aristotela člověk exituje kvůli něčemu -- nějákémů cíly
+	- Každá část člověka má svůj úkol který lze kvalifikovat
+	- Člověk má společné úkoly s dalšími bytostmi tudíž je vynecháme
+	- Co je vlastní pouze člověku?
+		- Život schopný jednání?
+		- Život jakožto činnost
+		- Rozum je vlastní pouze člověku (a řeč)
+- Co je tedy štěstí?
+	- Činnost duše a konání spjaté s rozumem -- Činnost duše na základě ctnosti
+- Štěstí = Skutečná činnost duše - ne těla -- v rámci celého života
+- Duše
+	- Rozumná část
+		- Má rozum
+		- Poslouchá rozum
+	- Nerozumná část
+		- Rostlinná
+			- Nemá účast na rozumu
+		- Žádostivá
+- Ctnosti
+	- Mravní
+		- "Není přirozená"
+		- Lze jí měnit
+		- Zvyk
+
+	- -----
+- Ctnost je hexis -- habitus -- stav, trvalý stav
+- Ctnost se vyhýbá extrémům -- je mid
+	- Stejně tak i vše ostatní
+- Střed je určen rozumem člověka který je rozumný
+- Rozumný člověk se správně rozhodne v situacích kde je to těžké
+## 4. -- Poznání u platóna
+- Théseova loď
+	- Ukázka lidského bytí na neživých objektech
+	- V čem spočíva kontinuita když ne materiálně
+- Hérakleitos z Efesu
+	- "Vše plyne"
+	- "Nevstoupíš dvakrát do téže řeky"
+- Parmenidés z Eleje
+	- "Posuď rozumem"
+	- Z něj vychází zbytek mysletelů v řecku
+- Anaxagorás
+	- Stejnorodé x Nestejnorodé části
+- Empedoklés -- 4 živly
+- Leukippos a Démokritos
+	- Koncept atomů
+	- Je jak něco tak i nic
+	- "Nic nevzniká ani nezaniká
+- Sokratés
+	- Nic nenapsal
+	- Epistemologie
+	- "Nový způsob tázání"
+		- "Co to je?"
+	- Nemůžeme poznat nic nového
+		- "To co vim nehledam to co nevim nevim kde hledat"
+		- Platón - "Duše je nesmrtelná -- učení se je vzpomínání si"
+	- Nemůžeme poznat nic skrze mysly
+		- Smysly jsou nepřesné
+	- Nemůžeme poznat nic proměnlivého
+		- 
+	- V dosavadních výkladech přírody chybí otázka "Kvůli čemu?" -- být teolelloogický
+		- Opravdové příčiny kde?

@@ -124,3 +124,170 @@
 		- Describe Iceland at that time
 		- Last days of the Icelandic free state
 		- Describe how the democratic system fell
+
+## Second lecture -- Judy Quinn
+- Why they were still relevant
+- Pre christian mythology -- death in battle
+- Prose inbetween poetry might be newer eg. reincarnation at end of 3rd poem of Helgi
+- Edda written down during transition to Norwegian rule -- Might be influenced by that
+- Law-speaker -- person who memorized all laws - only official
+- 999 - adoption of christianity
+- 1118-19 - law written down
+- Laws copied and changed across iceland -- different versions
+	- The real law was what the bishops had
+	- Law-speaker is not mentioned anymore and were replaced by them
+	- 2 Bishops
+		- Longest version of the law was the real one
+	- 2 equally long laws -- Skálholt Bishops is the real one
+- Homeostasis -- Preliterary culture is transformed during literacy -- what was deemed irrelevant is discarted
+	- Thus the poetry had to have meant something
+- Snorri Sturluson -- Lawmaker, Law-speaker
+	- Wrote about the mythology and poetry on iceland
+	- During civil war
+	- Was murdered by a servant of the Norwegian king
+	- Only copies from a century later were written down
+		- Different versions
+### Warrior-gods relationship
+- Æsir vs. Jötnar -- 2 families of gods
+	 - Ragna rök -- destinies of the powers
+- Æsir recruit human warriors to Valhöll to defeat the Jötnar
+- Valkyrja -- She-chooser of the slain
+	- Chooses best warrior on Valhöl to marry (Helgi says sure)
+	- Chosen by Valkyrja means you die unless she marries you
+	- Both human and divine
+	- Did not dissaper with adoption in Christianity at least in literature -- Cultural paganism
+		- Possibly parallels with angels
+- Metre
+	- Alliteration only per line -- Fornirðislag
+	- Long Short lines
+- Codex Regius -- pretty rough shape
+	- Not commisioned by a very wealthy person
+	- first third is about gods
+	- rest is about the human world
+	- Author tried to tie the poems together with the prose
+### Helgi
+- Senna -- insult exchange
+	- Make up large portions of the poems
+	- Nver directly Helgi but his men
+	- Almost never resolves -- ends in a real fight
+		- Only middle senna is resolved
+		- Giantess turns to stone
+- 3 poems with parallel plots
+- About what makes a great leader
+	- Mythological resolution of this -- divinely touched are usually the better leaders
+- Helgi and Valkyrie apparently reincarnated over and over
+	- Compiler says that reincarnation was in the ancient times but in their time he calls it a delusion
+
+## Third lecture -- Madita Knöpfle -- Narratology
+- Pre modern literary practices x theory
+### Historical situatedness
+- Literature -- Bókmenntir
+	- Written and spoken
+	- Also means history to some extent
+	- Before the 19th century it meant scholarship -- Connected with nationbuilding
+	- Skáldskapr -- old word that might be more simlar to the concept of literatture
+- Premodern
+	- Manuscripts till 19th century on Iceland
+	- Single copies
+	- Public or social readings - No time for reading as a leisure
+		- Texts composed differently to be better for reading aloud
+	- Read orally or aloud
+	- No concept of author -- texts altered
+- Sagnaskemtun -- saga enterntainment
+- Different versions of sagas
+- Untill 18th century -- only church could print -- handwritten secular texts
+- Radio replaced evening wakes -- oral homely readings
+- First Icelandic novel -- 1850 -- Piltur og Stúlka
+### Theory
+- Classical narratologies
+	- Text-centered grammar of narrative
+	- Assumed all texts had a sort of grammar of story
+	- Developed on modern novels
+	- Diachronic narr.
+- Post-classical narratologies
+	- Context-Oriented tool
+	- Post-structuralist (Feminist, postcolonial..)
+	- 2000s
+	- Synchronic narr.
+	- Rhetorics
+	- Each time has its own aproach
+- They do not exclude eachother
+- (Wolf Schmid - Narratology -- 2010)
+- Monika Fludernik -- Diachronization of narratology
+	- Evolution of scene shifts in 50 historical english texts
+	- Middle ages -- for listeners
+	- Shift from rhetorical device to a que or refference to saga traddition
+### Analysis
+- "Nú er þar máls at taka" -- "Now let us speak of"
+	- Many translations depending on interpretation of the device
+	- Personal v. impersonal translations -- ie. "Now the tale is to be taken up"
+- Aphodos -- Sideplot to main story transition
+	- Nunc ad cetera, unde incepimus, regrediamur -- Adam of bremen I:17
+- Nú er þar máls at taka
+	- Homily book
+		- 1200s 
+		- shift of topic 
+		- sermon
+	- Njáls saga 
+		- 1400s 
+		- Returns story to a character that was introduced in the beginning but the plot went on withouth her
+	- Huldarsaga
+		- 1800s
+		- Newly composed saga based on a mentioned lost saga
+		- Might have been used as a stylistic device to sound closer to mediaval sagas
+	- Piltur og stúlka
+		- 1850
+		- Tie different parts of the story
+		- Phrases from sagas used in a text that was designed to be read quietly
+		- Ends in a sagic way as well
+	- Kristinhald undir Jökli
+		- 1968
+		- Generic cue
+		- Characters in novel compared to characters made up in old stories
+## Did vikings have a soul?
+- Saul (Saiwalo), Líkamr (Lichunhamo) -- From christianity
+- Hamr -- Protobaltofinnic - Skin, Gestalt, Chemise
+	- Original conception of what a being is
+	- Used in literature during:
+		- Overcoming obstacles -- Flying
+		- Fighting -- Increasing strenght -- Berserker - Not of one shape -- Eigi Einhamr -> They hamask
+		- Magic -- Shapeshifters - No specified hamr
+	- Hamför -- Journey of hamr
+	- Hamslauss -- Person out of their mind
+	- Hamstolin -- Shapeless/Mindless
+	- Hamingja -- Happiness (in Icelandic)
+- Change towards a body-soul distinction?
+	- Originally no distinction in hamr propably
+		- í trollz hami (In a trollish shape) -- Seeress's prophecy
+			- Both mental and real shape
+		- í arnar ham -- Eagleish shape/property -- Vaftrúðnismál -> But in Snorra Edda -- it is interpreted as someone being physically eagle-like
+	- Hamr as a state of mind connected to body state
+		- berserk's fury -- hamrammr
+			- Connected to animal shapes
+			- Ber - serkir -- bear + skirts
+			- Úlf - heðnar -- wolf + skins
+		- Berserkers change their mental shape to get strenght
+		- Archæological evidence - depiction of animal-headed fighters, fighter fighting bears
+		- Cult of furious warriors already in germanic areas on continental europe
+		- Possibly furries?
+		- Hamrammr could mean werewolf in some contexts
+	- Hamr as a physical meaning but still some mental aspects
+		- Völsunga saga
+			- Sigmund
+			- Úlfhamir -- wolf skins
+			- Wolf nature comes over people
+	- Hamr as physical only
+		- heimskringla - Snorri Sturluson
+			- Óðin skipti hömum -- Odin could change his shape
+		- Christianised thinking
+		- Later sagas
+			- vargs hamnum - wolf's hamr
+			- fiaðrhamr - flying contraption
+	- Hamr as mental only
+		- Egils saga -- sem hamstoli væri -- (and was) as one posessed -- "as if hamr was stolen"
+		- Bærings saga -- hamstoli -- lost his mind -- hamr was stolen
+		- Hamr = Inner shape
+	- => Concept of identity changes
+	- It was a tradition not influenced by greek ideas of the soul
+		- If you change your mind you change your body
+	- The eyes sometimes remain the same
