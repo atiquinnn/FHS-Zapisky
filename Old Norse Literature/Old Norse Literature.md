@@ -349,7 +349,7 @@
 			- 1954
 			- Translated and illustrated The Hobbit
 - Real trolls are if not outright evil but they are big
-- 2010 - Troll films 
+- 2010 - Troll films
 	- Troll Hunter
 	- The last Norwegian troll
 	- Thale -- male fantasy
