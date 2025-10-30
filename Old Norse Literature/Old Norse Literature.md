@@ -308,3 +308,51 @@
 	- It was a tradition not influenced by greek ideas of the soul
 		- If you change your mind you change your body
 	- The eyes sometimes remain the same
+
+## Trolls  in Scandinavian Mythology and beyond -- Simek
+- Many words for anthropologic beings
+- Hierarchy of giants in sagas
+- Jötnar - primeval giants -- cosmological beings
+- Risir = big and daft
+- Þursar - somewhat magical giants - evil
+- Trolls are big but not too big -- isolated and harmful
+- Trolls have many aspects -- deathly, playful, troll women, nice troll girls, names of trolls
+- Troll used as devil in cursing somebody ie. troll take you x devil take you
+- escape from death -- ór trölla hendum
+- Trolls are in many stories, sagas, poems and books
+- Troll games
+	- Throwing bones
+	- Catching balls
+	- Hornskinnleikr
+	- Hráskinnleikr
+	- Playing footsie
+- What are trolls reallỵ
+	- Giantish
+	- Mythological + folk + evil creatures
+	- No canon
+- Modern reception of trolls
+	- 2 Strains
+		- 1. Tolkien
+			- Vage concept mixed up with giants
+			- Trick turns them into stone - Alvíssmál -- dwarf turns into stone - only instance
+			- Way less sources in the 30s - 50s
+			- Changed concept of what trolls are in modern times
+			- Very christian concept of trolls
+			- Trolls spread into fantasy
+			- No humour :( -- in sagas they are a sarcastic commentary on humans
+			- Torturers of women
+			- 20th century -- commercialization
+				- Commerce-trolls
+				- Childrens book trolls
+					- They are actually Tomtar (Gnomes etc.)
+		- 2. Tove Jansson
+			- 1954
+			- Translated and illustrated The Hobbit
+- Real trolls are if not outright evil but they are big
+- 2010 - Troll films 
+	- Troll Hunter
+	- The last Norwegian troll
+	- Thale -- male fantasy
+	- Merlin (Ser.)
+	- Graans
+- Advertising (Of course)
