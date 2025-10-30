@@ -1,10 +1,12 @@
 # Old Norse literature
 - Grampheme notes: DH is the voiced dental fricative, TH is the unvoiced, OE is the O with umlaut eg Ð,Þ,Ö
+
 ## First Lecture
 - Different lenses of approach
 - Short test at the end
 - Next week -- Judy Quinn -> Where do heroes come from? 
 	- 3 eda poems
+
 ### Viking Expeditions
 - circa 900 to 1066
 - Runic inscriptions but no written sources from this time
@@ -13,6 +15,7 @@
 - What enabled vikings to spead?
 	- Drakarr - War Ship
 	- Knarr - Colonisation ship
+
 ### Ísland
 - Discovery - Snaeland, Gardarshólm, Ísland >- Names, only Ísland stuck
 - Settlement - Ingold Arnarson circa 870 - Mythic coloniser
@@ -23,6 +26,7 @@
 - There were some Irish monks
 - Landníáma -- landtaking
 - Laws mainly based on Norwegian ones and addapted them
+
 #### Societal structure
 - Free farmers -- Bóndi - They could be free outside of the Norwegian kingdom because the king started collecting taxes circa 9th century
 - Leaders -- Höfðingi - Local, bigger farmers
@@ -32,6 +36,7 @@
 - Godi -- Chieftans
 - Priests, Clergy
 - 5 Families consolidated power in the 13th century and Iceland fell under Norwegian rule which ended the free Icelandic state period
+
 ##### Establishment of the Althing
 - Local assemblies -- Þings
 - Iceland - Same system
@@ -39,6 +44,7 @@
 - Law based on Norwegian model
 - Problems taken to AlÞing if they could not be resolved by local Things
 - No records
+
 #### Adoption of Christianity
 - In the year 1000 officially, but reality is fuzzier
 - This meant one law for the all of Iceland, christian of course
@@ -52,6 +58,7 @@
 - Education of the people - priests got educated in Norway
 - Schools started popping up, even lay people could attend, which was not the case in most places in europe
 - That is one of the reasons for folk literature being so aviable to us
+
 ### Genres of Old Norse Literature
 - 12. - 14. century
 - Old Norse language
@@ -65,6 +72,7 @@
 		- Codex Regius
 		- Simpler poetic meters
 		- If not for theis, the mythology would be lost
+
 #### Pagan religion
 - Two families of gods:
 	- Aesir: Odin, Thor, Baldr - some speculate that the germanic people introduced these
@@ -78,6 +86,7 @@
 	- Snorri was educated and read a lot of mainland literature and he retells the Edda in that style
 	- He explained the gods rationally which the older Edda did not, it did not even question why the gods did what they did
 - Yggdrasil
+
 ##### Mythological lays
 - Heroic petry epics
 - Only comprehensive sources of the pagan mythology
@@ -91,6 +100,7 @@
 - Lot of contention on how accurate the Edda is
 - Preserved also in England: Beowulf, Widsith etc.; Germany: Song of Hildebrand, Song of the Nibelungs
 - READ: first 3 Helgi poems
+
 #### Sagas
 - Prosaic genre
 - Specific for Iceland and Norway
@@ -147,6 +157,7 @@
 	- Was murdered by a servant of the Norwegian king
 	- Only copies from a century later were written down
 		- Different versions
+
 ### Warrior-gods relationship
 - Æsir vs. Jötnar -- 2 families of gods
 	 - Ragna rök -- destinies of the powers
@@ -165,6 +176,7 @@
 	- first third is about gods
 	- rest is about the human world
 	- Author tried to tie the poems together with the prose
+
 ### Helgi
 - Senna -- insult exchange
 	- Make up large portions of the poems
@@ -178,8 +190,10 @@
 - Helgi and Valkyrie apparently reincarnated over and over
 	- Compiler says that reincarnation was in the ancient times but in their time he calls it a delusion
 
+
 ## Third lecture -- Madita Knöpfle -- Narratology
 - Pre modern literary practices x theory
+
 ### Historical situatedness
 - Literature -- Bókmenntir
 	- Written and spoken
@@ -198,6 +212,7 @@
 - Untill 18th century -- only church could print -- handwritten secular texts
 - Radio replaced evening wakes -- oral homely readings
 - First Icelandic novel -- 1850 -- Piltur og Stúlka
+
 ### Theory
 - Classical narratologies
 	- Text-centered grammar of narrative
@@ -217,6 +232,7 @@
 	- Evolution of scene shifts in 50 historical english texts
 	- Middle ages -- for listeners
 	- Shift from rhetorical device to a que or refference to saga traddition
+
 ### Analysis
 - "Nú er þar máls at taka" -- "Now let us speak of"
 	- Many translations depending on interpretation of the device
@@ -244,6 +260,7 @@
 		- 1968
 		- Generic cue
 		- Characters in novel compared to characters made up in old stories
+
 ## Did vikings have a soul?
 - Saul (Saiwalo), Líkamr (Lichunhamo) -- From christianity
 - Hamr -- Protobaltofinnic - Skin, Gestalt, Chemise
