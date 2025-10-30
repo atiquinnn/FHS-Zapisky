@@ -12,6 +12,13 @@ Harrisonův přístup se liší hlavně tím že nevidí tehdejší náhled na p
 Harrison prezentuje podklad pro to, že narativa ztracení nadvlády nad přírodou (Božím dílem) skrz ztracení Adamova vědění byla mnohem většim faktorem při tvorbě rané moderního myšlení než se dříve předpokládalo. Zároveň i pohledy na tzv. Adamovu mysl, tedy tu mysl, která nebyla "pohanská" tj. klamána smysli, byly dle Harrison důležité. Dle něj projekty které se snažili posouvat lidské vědění a lidskou mysl dále, ať už zapomocí racionalismu či empiricismu, byly podstatně ovlivněny právě tímto, že se nejednalo a souboj víra vs. věda, ale že víra osvíceneckou vědu tvořila.
 
 ## 5. Jaké jsou meze článku vzhledem k ověření jeho hypotézy? Najděte dvě monografie kde hypotézu rozvíjí a potvrzuje.
+Potvrdit Harrisonovu hypotézu by dle něj samotného vyžadovalo mnohem rozsáhlejší článek než je tento. 
+
+## 7. Proč volí Adamovu mysl jako první téma?
+Adamova mysl je dle Harrisona pro raně moderní myslitele specifcká tím, že není klamána lidskými smysly. Proto aby bylo možno pochopit jakou roli ten celý mýtus hrál, je nutné začít od adamovi mysli, jejíž interpretace ho celý rámcuje. Říká že byl téměř univerzální konsenzus ohledně výbornosti jeho mysli. Pak poskytuje citát od Roberta Southa, který vyzdvyhuje Adamovu mysl až na úroveň podobnou vědmě. Ale ve finále říká, že hlavní byl ten názor že omnipotentnost Adamovy filozofie spočívala v udržování hierarchie božího díla.
+
+## 8. K jakému závěru dospívá?
+K tomu, že i samotné metody osvíceneckých způsobů poznávání souvisí s interpretací "Úpadku" lidstva. 
 
 [^1]: Harrison, Peter. “Original Sin and the Problem of Knowledge in Early Modern Europe.” _Journal of the History of Ideas_ 63, no. 2 (2002): 239–59. https://doi.org/10.2307/3654196.
 
