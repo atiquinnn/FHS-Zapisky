@@ -216,3 +216,14 @@
 - Masivní úspěch aplikované vědy -- industrializace
 - Snaha dostat tento úspěch i do studia společnosti a člověka
 - ZÁSADNÍ OTÁZKA -- Mají mít přírodní a společenské vědy stejnou metodologii?
+
+### Vědecké poznání
+- Jaká je metoda
+- Zdroj
+- Objektivita atd.
+- Vědecká metoda přináší opakovatelné, prokazatelné, zobecnitelné výsledky a odpovědi
+- Pozitivismus
+- Naivní empiricismus -- Spekulace jsou také důležité a nelze mít jen fakta
+- Jak z pozorování lze odvodit indukce
+- Jaká je povaha faktů
+- Indukce -- Zobecnění pozorování

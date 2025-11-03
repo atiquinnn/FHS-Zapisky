@@ -2,9 +2,12 @@
 - zima - Online test prezenčně -- z přednášek
 - léto - ústní zkouška -- z literatury
 - státnice -- povinně volitelná literatura (SIS)
+
 ## 1.
+
 ### Rétorika vs. Filosofie
 -- Platónova péče o duši
+
 #### Historické pozadí
 5. stol. pnl. řecko
 	- Velké změny -- řecko-Perská v=alka -- poprvé řecký státní "celek"
@@ -27,6 +30,7 @@
 			- Jazyk je politickým zákonem vládnutí
 			- Rovnost ()některých) občanů
 			- Kritika tradice
+
 ##### Vzdělání a sofisté
 - Stoupá vzdělanost
 	- Gramotnost
@@ -37,12 +41,14 @@
 	- Výuka politiků
 	- Fysis vs. Nomos
 		- Otázky jako co je spravedlnost
+
 #### Sokratés
 - Sokratés jak je nám znám skrz Platóna -- ne historický
 - 470-399
 - Žádné texty -- pouze svědectví která se liší
 - "Pŕedobraz filozofa"
 - V platónovo dialozích -- Divadelní ráz - Nelze brát dialogy jako reálný obraz lidí
+
 #### Obrana Sókrata -- Platón
 - Promluva k Athénským soudcům
 - Obhajoba -- První část
@@ -51,6 +57,7 @@ Návrhtrestu -- Druhá část
 	- Žaloba a obhajoba navrhují tresty (36a - 38b)
 - Závěr -- Poslední část
 	- Je popraven
+
 
 ##### Obhajoba
 - Přesvědčivost vs. pravda
@@ -84,6 +91,7 @@ Návrhtrestu -- Druhá část
 		- Pravda
 		- Duše -- Nejdúležitější
 	- Ctnost tvoří vše ostatní a ta je tvořena péčí o duši
+
 #### Gorgias -- Platón
 - Dialog
 - 5 Postav
@@ -95,6 +103,7 @@ Návrhtrestu -- Druhá část
 	- Spravedlnost
 	- Činnost v. pasivita
 - Rétorika vs. Filosofie / Vnější vs. Vnitřní život
+
 ##### Rétorika
 - Pólos -- Rétorika je nejlepší umění
 	- Sokratés -- Polos jen monolog ne diaog
@@ -136,7 +145,9 @@ Návrhtrestu -- Druhá část
 				- Sofistika
 - Rétorika -- Na zdání spravedlnosti přesvědčuje o něčem pouze zdánlivě spravedlivém
 - Rétorika a Filozofie mají odlišné cíle
+
 ## 2.
+
 ### Aristoteles -- Etika
 - Nejvyšší dobro jen kvůli jemu samému -- Aristoteles
 	- Dá nnám cíl díky kterému je vše jednodušší
@@ -213,6 +224,7 @@ Návrhtrestu -- Druhá část
 	- Stejně tak i vše ostatní
 - Střed je určen rozumem člověka který je rozumný
 - Rozumný člověk se správně rozhodne v situacích kde je to těžké
+
 ## 4. -- Poznání u platóna
 - Théseova loď
 	- Ukázka lidského bytí na neživých objektech

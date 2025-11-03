@@ -6,6 +6,7 @@
 - 2 pohledy na stejný jev
 - Středověký nacionalismus -- Společenství vznikající na spojené kultuře
 - Moderní nacionalismus -- Francouzská revoluce
+
 ### Středověk
 - Středověk -- nadávky na lidi od jinaď
 	- Kosmova kronika
@@ -27,7 +28,9 @@
 	- Paralely se současným českým nacionalismem
 	- Společenství na základě krve -- etniku - dlouhodobě
 	- Český mesianismus -- "Česko hraje výjmečnou úlohu v dějinách"
+
 ## 3. -- Proměny mobility v 19. a 20. stol.
+
 ### Železnice
 - 1. -- Stockton -> Darlington
 - Koněspřežka Lincec -- Budějky
@@ -42,6 +45,7 @@
 	- Jízdní řády a dané trati
 	- Příručky vlakové etikety
 	- Oddělené dámské sektory
+
 #### Vozové třídy
 - Fakt pěkný interiér v 1. třídě
 - Dráha císaře Ferdinanda -- 4 třídy
@@ -52,6 +56,7 @@
 - 4. třída -- bez střechy jen do 20. stol.
 - Třídy měly přiřazené barvy
 - 1956 -- jen 1. a 2. ale ta 1. je ta původní 2.
+
 #### Spací a jídelní vozy
 - Technický pokrok
 - Dlouhé vzdálenosti -- Orient Express -- Anglie <-> Istanbul
@@ -59,9 +64,11 @@
 - Nagelmackers -- pohodlná síť po evropě
 ---------------------------------------------------------------
 - Možnost pracovat dále od dommova -- dělnické vlaky
+
 ### Parníky
 - Nezáleží na větru
 - Praha <-> Drážďany -- 1841
+
 ### Automobily
 - Individualita
 - (Tilip Furek?)
@@ -78,11 +85,13 @@
 - Ne jen daleko, ale i vysoko
 - Autocamping -- Souvisí s konceptem volného času
 - Po 2. sv. -- Caravaning
+
 ### Letectví
 - 1903 -- Wrights
 - 1911 -- Praha -> Pardubky -- Jan Kašpar
 - 1923 -- ČSA
 - 1929 -- Sjednocení leteckých pravidel
+
 ### Inspirace cestovního ruchu
 - Kavalírské cesty
 - Cestování pro zábavu
@@ -95,6 +104,7 @@
 - Sezónní cesty
 - Letní byty
 - Turistika -- Značení cest
+
 ## 4.
 - Religiozita s mění
 - Víra daná vládou

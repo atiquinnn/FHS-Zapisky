@@ -4,13 +4,17 @@
 	- Test -- 4 otevřené otázky
 	- Každá 5 bodů
 	- V SIS powerpoint
+
 ## 1. Kulturní Areály
+
 ### Nativní + Severní
 - "Domorodý" -- pejorativní
 - Nativní = před příchodem evropanů
+
 ### Nativní teorie původu
 - Hopi -- Mýtus o vynoření (z podzemí) - Jihovýchod -- Autochtoní
 - Spojeno s agrarismem
+
 ### Vědecké teorie původu
 - Aleš Hrdlička
 	- Fyzický Antropolog
@@ -49,9 +53,11 @@
 			- 3 Migrační vlny (1. Čukotka, 2,3. Kamčatka)
 - Patrně alochtoní podobně jak řekl Hrdlička
 - Mnoho soupeřících teorií
+
 ### Severní Amerika
 - Od mexika na sever
 - Nezahrnuje Hawai'i, Střední Ameriku, Karibik
+
 ### nativní Obyvatelsto
 - 3 makroskupiny
 	- Indiáni
@@ -73,12 +79,14 @@
 		- Není užíváno pejorativně většinou
 	- I/E -i/e
 		- malé
+
 ### Antropologický koncept kultury
 - Ne jen umění
 - Systém artefaktů societé etc.
 - Kultura jako adaptivní mechanismus
 	- Prostředí limituje technologie
 	- Infrastruktura informuje Strukturu (Společnost) informuje Superstrukturu (Světonázor)
+
 #### Kulturní areály
 - Oblast kde kultura má společné rysy
 - 1917 -- Clark Wissler
@@ -94,12 +102,15 @@
 	- (Jsou i historické)
 	- Geografický determinismus -- geografie -> substinence -> kultura -- Kulturní ekologie
 	- Kulturní difuze -- centrum nápadu -> periferie (Konfiguracionismus)
+
 ##### Problémy a limity
 - Není příma korelace prostředí a kultury -- Environmentální determinismus
 - Arbitrární rysy
 - Hranice -- nereflektuje realitu
 - Zmrazeno v čase(ch) -- Ne stejná doba všech diskutovaných informací
+
 ## 2. Oděv a tělěsné modifikace
+
 ### Antropologie oděvů a ozdob
 - Kultirní univerzálie -- každá společnost to má
 - Praktické a symbolické aspekty
@@ -111,6 +122,7 @@
 	- = Změna fyzycké podoby těl
 	- dočasné -- Barvení
 	- permanentní -- Tetování, Tvarování lebky
+
 #### Symbolické funkce oděvu, ozdob, modifikací
 - Estetická a erotická
 - Individualizační
@@ -122,12 +134,15 @@
 - Rituální
 	- Ie. Jarmulka
 - Nevylučují se navzájem
+
 ### Stereotypizace Indiánů
 - Média -- Filmy
 	- Pohádky
 - Kostýmy (Halloween)
+
 ### Oděvy kulturních areálů
 - Informováno lokálními zdroji k výrobě
+
 #### Velké planiny
 - Lovci bizonů / pěstitelé kukuřice
 - 2 Suroviny
@@ -143,6 +158,7 @@
 	- Malba barvami
 	- Kožené třásně, chlupy a vlasy
 	- Pera dravých ptáků / Části těl zvířat
+
 ##### Mužské
 - Bederní rouška
 	- Symbol mužství
@@ -157,6 +173,7 @@
 	- 2 Nohavice přivázané k opasku
 - Košile (Zimní/Válečný oděv)
 	- Tvar T rozšířeného dole
+
 ##### Ženské
 - Šaty
 	- Dlouhé
@@ -166,6 +183,7 @@
 - Krátké leginy
 - Pláště
 - Mokasíny
+
 ##### Ozdoby
 - Chestplate - V i H
 - Čelenky
@@ -175,13 +193,17 @@
 - Rouč
 	- Ozdoba hlavy s chlupy z jelenců na červeno
 	- Pod bradou k hlavě
+
 ##### Úprava vlasů
 - Smuteční událost -- Ostříhání vlasů
+
 ###### Muži
 - Dva copy
 - Vyholená část vlasů - Pěstitelé kukuřice
+
 ###### Ženy
 - Dva copy
+
 ##### Tělesné modifikace
 - Odstranění tělesného ochlupení
 	- Obočí někdy i řasy
@@ -191,6 +213,7 @@
 - Barvení těla
 	- Ne jen válečné !! -- to byly ochrané
 - Tetování -- ne moc často
+
 #### Arktický areál
 - Lovci tuleňů, rybáři, velrybáři
 - Mědění inuité
@@ -200,6 +223,7 @@
 - Nevyčiněné kožešiny
 - Systém vrstvení
 - Primárně praktické
+
 ##### Mužské
 - Dvě vrstvy
 	- Chlupy dovnitř
@@ -207,6 +231,7 @@
 - Kalhoty
 - Parka
 	- Kabát ke kolenům s kapucou
+
 ##### Ženské
 - Stejné vrstvení
 - Naatsik
@@ -214,14 +239,18 @@
 - Kratší parka
 	- s pruhem látky tj. polštář
 	- Větší kapuca - Na nošení dětí
+
 ##### Úprava vlasů
+
 ###### Muži
 - Dlouhé volné
 - Krátké
 - Kníry a vousy
+
 ###### Ženy
 - Dva copy
 - Volné
+
 ##### Modifikace
 - Tetování
 	- Prošívání šlachy se sazemi - auvajs
@@ -235,8 +264,10 @@
 	- Ethnorevival v současnosti
 - Piercingy
 	- Labretty - Vysoký status
+
 #### Severozápadní pobřeží
 - Specializovaný rybáři
+
 ##### Oděv
 - Cypřišové lýko
 - Mazáno olejem
@@ -257,6 +288,7 @@
 - Kroužky v nose
 - Labretty
 - Deformace lebek
+
 #### Severozápad
 - Pueblani -- zemědělci
 - Pastevci -- Apache
@@ -269,6 +301,7 @@
 	- Krásně tkané
 - Mnoho šperků -- tyrkys + stříbro
 - Krátké vlasy
+
 #### Severovýchod
 - Kopaničáři a lovci
 - Kolem velkých jezer
@@ -281,8 +314,10 @@
 - Skalpové kadeře -- Číro
 - Tetování
 - Kroužky v nose, náušnice
+
 ## 3. Substitnenční strategie
 - Způsob obživy ovlivňuje sociální strukturu
+
 ### Substinenční strategie
 - Lov a sběr
 	- Dost pravděpodobně první
@@ -306,6 +341,7 @@
 	- Prostě tak
 ------------------------------------------------
 - Subst. strat. ovlivňuje usazení a velikost populace ale jsou vyjimky
+
 ### Arktický areál
 - Málo sběru
 - Více lovu
@@ -328,6 +364,7 @@
 - Zvíře se musí chtít nechat ulovit -- musí se usmířit
 - Využívá se celé zvíře
 - Akutuq -- tulení tuk s bobulema
+
 ### Severozápadní pobřeží
 - Rybářství
 - Lesnaté, mírné podnebí, vlhko
@@ -338,6 +375,7 @@
 		- Vertikální síť (Jill net)
 		- Udice
 	- Uzení a sušení
+
 ### Severovýchodní lesy
 - Kukuřice
 - Lov a sběr
@@ -356,6 +394,7 @@
 - Sagamite -- kukuřice s tukem
 - Succotash -- kukuřice s fazolemi
 - Knedlíky z kukuř. mouky
+
 ### Pueblo -- Jihozápad
 - Spec. zemědělci
 - Fakt sucho ale velký řeky
@@ -366,6 +405,7 @@
 - Alimentární zvyklosti
 	- kukuřičné placky -- piki - rituální
 	-  jídla deně
+
 ### Velké planiny
 - Lov bizonů + pastevci
 - Žádnej les

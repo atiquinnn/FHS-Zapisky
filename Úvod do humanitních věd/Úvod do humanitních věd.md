@@ -1,7 +1,9 @@
 # Úvod do humanitních věd
+
 ### Zkouška
 - V zimním semestru
 - Atestace je jinak -- test
+
 ## První hodina
 - podobenství paidea -- jeskyně - Ústava -- Platón
 	- pouta přestavují naše predsudky
@@ -11,6 +13,7 @@
 - V AJ: Liberal Education -- konfrontace se světe a kulturou v okolí
 	- Vzdělanosst jako živý dialog s minulostí, SCHWANITZ Dietrich
 - Dřívější přednášký - Oikumena -- v moodle
+
 ### Člověk jako osoba
 - Pragmatická antropoligie
 - Osoba
@@ -29,8 +32,10 @@
 	- dráždivost (Reaguje na okolí)
 	- časový tvar (vzníká, mění se a zaniká)
 	- reprodukuje se
+
 ## Druhá hodina -- Člověk jako společenský živočich
 - Člověk se rodí nehotový
+
 ### Sběračsko-lovecké společenství
 - ťKungvé - společné místo kam se vrátit
 	- 100msqr
@@ -40,6 +45,7 @@
 	- Poté se scházejí
 - Dělba práce
 - Pravidelný sběr
+
 #### Lov a společné jídlo
 - Skupinový altruismus
 - Tvorba vztahů
@@ -50,6 +56,7 @@
 - Úsměv je vrozený
 - Dar
 	- Pivinná účast
+
 ## Vesnice a město
 - Sběr a lov -> zemědělství -- neolitická revoluce
 - Agrikultura je těžká -> ale stabilní
