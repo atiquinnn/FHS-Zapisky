@@ -227,3 +227,17 @@
 - Jak z pozorování lze odvodit indukce
 - Jaká je povaha faktů
 - Indukce -- Zobecnění pozorování
+- Co opravňuje zobecnění? - Opakovaná a mnohá pozorování
+
+#### K. Popper
+- Indukce je slabá opora -- Stačí jedno proti na odmítnutí ale není nikdy dost na potvrzení
+- Poznání vybudujeme vyvracením
+- "Věda je hledání odporujících případů"
+- Sebekritičnost je krédo vědy -- ale hierarchie to kazí
+- Ovšem co je platná falsifikace?
+
+#### Problém pozorování a teorie
+- Popis situace??? -- Sedim v aule a nedávam pozor
+- Pozorování je nasyceno
+- Neexistuje neutrální pozorovací bod
+- Věda má fungovat jako kritická komunita
