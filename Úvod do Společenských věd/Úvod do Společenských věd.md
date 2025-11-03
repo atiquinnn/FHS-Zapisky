@@ -16,10 +16,12 @@
 	- 3 termíny
 	- 30 otázek
 	- Min 18 bodů
+
 ## 1.
 - Základy společenského vědění
 - Institucionalizace spol. věd.
 - Věda jako společenská instituce
+
 ### Kořeny společenských věd
 - Předmoderní vědění
 	- Metafyzika, Filozofie
@@ -27,6 +29,7 @@
 	- Orální tradice
 	- Středověk -- Navazuje na antiku
 - Osvícenství -> modernizační změny
+
 #### 17. stol.
 - Evropská akademie ovlvněna objevováním světa -> expozice jinak fungujícím kulturám
 - Rozvoj technologií
@@ -53,6 +56,7 @@
 - Vyjasnění principů tvoření (vědeckého) vědění
 	- Indukce vs. Dedukce
 - Cimrman
+
 #### 19.stol.
 - Mobilizace informací
 - Sociální revoluce -- změny mocénského uspořádání
@@ -70,11 +74,13 @@
 		- Antropologie
 	- Empirické přírodní vědy
 	- Potlačováno kvůli neempiričnosti -- Psychologie, Právo, Geografie
+
 #### Kultura vs. Společnost
 - Kultura
 	- Životní způsoby -- Materiální
 - Společnost
 	- Politické společenství -- Abstraktní (ale reálné)
+
 #### Projekt modernity
 - Zamyšlené cíle
 	- Růst odborného vedení = spolehlivost rozhodování
@@ -99,8 +105,10 @@
 	- Neutralita, Objektivita, Parafigma, Reflexivita
 	- Věda se nevyskytuje mimo realitu
 	- Interdisciplinární přístupy
+
 ## 2. Sociologie
 - tak nějak všechno
+
 ### Doba vzniku
 - Kouř
 - Francouzská revoluce
@@ -117,6 +125,7 @@
 	- Kolonialismus
 	- Imperialismus
 - Mrtví bílý pánové
+
 ### Záměry sociologie
 - Jak drží společnost dohromady?
 - Jak se společnost mění?
@@ -124,19 +133,23 @@
 - Individualita je významná až ve společnostech s pokročilou dělbou práce
 - Jak je individuální jednání ovlivněno a zakotveno ve společnosti
 - Hodně jevů se vysvětluje psychologicky a ne sociologicky
+
 ### Vstup do dospělosti
 - Fragmentace vstupu do dospělosti = vynořující se dospělost
 - Dříve: --> škola --> práce -> sňatek --> rodičovství --> bydlení
 - Teď: Random (Většinou pro vzdělanější skupiny obyvatelstva)
+
 ### ...
 - Sociologická imaginace -- Charles W. Mills
 	- Osobní situace --> Veřejný problém
 	- Vlastní potíže v historickém a strukturálním kontextu
 - Nesamozřejmost každodennosti
 - Kulturní šok ve vlastní kultuře -- zpochybnění naší představy
+
 ## 3. Úvod do antropologie (Do sociokulturní antropologie)
 - Stavba lidského těla
 - Rituály ?
+
 ### Konstituování společenských věd
 - 19. stol.
 - Věda v kontextu sociokulturněpolitických podmínek
@@ -180,14 +193,26 @@
 - Etnografie
 - 60s - zlom v přístupu
 	- Emická perspektiva -- perspektiva aktéra
+
 ## Úvod do psychologie
+
 ### Co je psychologie
 - Empirická věda
 - Pomáhající profese
     - terapie
     - forenzní
     - diagnostika
+
 ### Trojstupňový model
 - Věda
 - Věda a vzdělání
 - Profese
+
+## Co je to věda?
+- V AJ je science přírodní věda a ne Humanities
+- Spol. vědy nejsou humanitní
+
+### Úspěch vědy a technologie
+- Masivní úspěch aplikované vědy -- industrializace
+- Snaha dostat tento úspěch i do studia společnosti a člověka
+- ZÁSADNÍ OTÁZKA -- Mají mít přírodní a společenské vědy stejnou metodologii?
