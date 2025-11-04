@@ -61,3 +61,19 @@
 - Sběr a lov -> zemědělství -- neolitická revoluce
 - Agrikultura je těžká -> ale stabilní
 
+## Zoón logon echon
+- Ferdinand de Saussure
+	- Jazyk jako symbol
+	- Řeč realizace tohoto symbolu
+- Signál a řeč
+	- Symptom - Kouř
+	- Signál -  Hoří
+	- Sdělení - Hořelo
+	- Pojem - Oheň
+- Člověk a řeč
+	- Abstraktní výkon negace
+	- Řeč je kategorizace
+	- Znak a označované
+	- Filtrace věmů
+	- Není židle jako židle ale pořád je to židle - abstrakce konkrétních věcí do kategorií
+- Kámo cože ja fakt reálně nevim co se snaží předat za informace
