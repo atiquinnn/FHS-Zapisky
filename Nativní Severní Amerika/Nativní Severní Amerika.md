@@ -414,3 +414,95 @@
 - Bizon -- zdecimovaná populace američany
 	- Bizon nemigruje, bizon se toulá
 - Kolektivní lov -- trestání individuálních lovů
+
+## 4. Obydlí
+- Ne jen praktické
+- Různé typy
+- Trvalé i netrvalé -- není daná přesná hranice
+- Sídlo
+	- Praktické - Ochrana před klimatem
+	- Sociální - Velikost sociálních jednotek
+	- Symbolické - Projekce kosmologie
+- I toto spadá pod superstrukturu ie. - Prostředí, Substinence a společnost ovlivňuje ale ne definuje obydlí
+
+### Severovýchodní lesy
+- Iraquois (Irokejové)
+- Ojibwe
+- Pěstitelé kukuřice a sběratelé ovsuchy
+
+#### Wigwam
+- Algonkinské kmeny (Ojibwe, Saukové, Lišky (Meskawaki), Winnebagové)
+- Kupulovité
+- Oválné nebo kruhové
+- cca 5m průměr
+- Rákosová izolace + Kůrové pokrytí
+- Sídlo se během roku mění -- mění se sociální jednotky
+	- podzim, zima, jaro - jednotlivé rodinné jednotky
+	- léto - sdružení
+
+#### Dlouhý dům
+- Irokézské
+- Haudenosaunee - Lidé dlouhého domu
+- 5m široký, dlouhý desítky metrů
+- Kůlová kostra s poloválcovitou střechou - kůrové pokrytí
+- Vnitřek rozdělen na kóje nukleárních rodin
+- Matrilineární rodina - příbuznost jen z matčiny strany
+- Klanová matka - Matróna
+- Uprostřed ohniště
+- Vesnice ohraničené palisádou
+- 300 až 600 obyvatel
+- Semipermanentní - cca každých 25 let se přesune jinam ale nebourá se
+	- Došlo dřevo
+- Roční cyklus - jaro a podzim mimo vesnici, zima všeci, jinak jen ženy
+
+#### Severozápadní pobřeží
+- Prkenné domy
+- Obdelníkový půdorys
+- Sedlová střecha
+- Cypřiš a Tůje
+- až 15x18x5m
+- Malované stěny a vyřezávané figury
+- Trámový krov na rohových kůlech
+- Různé typy konstrukcí
+- Uprostřed místo na oheň v zemi a sezení kolem na úrovni podlahy
+- Po stranách jsou kóje
+- Vesnice
+	- Stavěné do řady v zátoce nebo u moře, směrem k vodě
+	- Několik desítek domů
+	- Někdy palisády
+	- Zimní a letní vesnice
+		- Zimní - pobřeží
+		- Letní - vnitrozemí
+		- Prkna vozí s sebou
+
+#### Pueblo
+- Několikaposchoďové domy
+	- Vepřovice
+	- Kameny
+- Omítka z hlíny a jílu - zářivě bílá
+- Obřadní místnosti
+
+#### Navajo
+- Hogan
+	- Gender separated ale jen symbolicky
+- Jílová omítka
+- F. - 6 stran
+
+#### Arktický areál
+- Iglú
+	- Kvádry skládané do spirály
+- Stany
+- Zemnice
+- Vstupní tunel
+- Propojování iglú
+- Uvnitř 5°
+- Zase roční změna
+- Zemnice stavěné stejně jako iglú jen ne z kvádrů sněhu
+
+#### Velké planiny
+- Tipi
+- Vrstvená izolace
+- 3 nebo 4 stojné tyče
+- Kruhové sídliště
+- Letní zimní
+- Zemnice - průměr 18m
