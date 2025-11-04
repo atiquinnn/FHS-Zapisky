@@ -77,3 +77,7 @@
 	- Filtrace věmů
 	- Není židle jako židle ale pořád je to židle - abstrakce konkrétních věcí do kategorií
 - Kámo cože ja fakt reálně nevim co se snaží předat za informace
+
+### Konspekt
+- Prezenční test v moodle
+- = text z knihy
