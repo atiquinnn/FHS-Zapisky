@@ -356,3 +356,48 @@
 	- Merlin (Ser.)
 	- Graans
 - Advertising (Of course)
+
+## Concept of friendship in old norse society
+- political aliances -- contractual friendship
+	- vinfengi, vinátta -- sort of an aliance
+	- Increase importance beyond family
+	- A political/work relationship basically
+	- Gifts and feasts
+- The process of exchange was private but not hidden
+- Status was tied to the amount of relations you could manage
+- The church was also involved
+- This resulted in a horizontal-ish societal structure
+- There was no difference between secular and church elites
+
+### Jómsvíkingasaga
+- Járl Hákon -- friendship with king who previously helped opponent
+
+
+### Gifts
+- Fundaental role in maintaining vinátta
+- It was expected to gift in exchange for recieving
+	- If you could not gift back materially you owed loyalty to the gifter
+- Refusal of a gift is significant -- it is conflict
+
+
+### Feasts
+- Used to strenghten friendships as well
+- Not coming is rude, not being invited must have sucked
+- Used to form the hierarchy which otherwise was kinda loose -- seating order
+- Feast is the place and gift is the tool of forming vinátta
+
+
+### Oaths
+- Performs an alliance by taking the oath
+
+
+- This relationship system changed slower than for example the official religion so we van be pretty sure that even the scribes in the 13th century it was written down almost unchanged
+
+## Emotions in sagas
+- The psychology is never described, it is only alluded to via physical means
+- In poetry it is
+- Physical tokens of emotions
+	- Grief is described with exhaustion or the inability to move -- laying in bed
+	- Anger is described with preassure, swelling, temperature
+	- Death is described with bursting -- death due to emotional causes
+- Emotion is literally a part of your body
