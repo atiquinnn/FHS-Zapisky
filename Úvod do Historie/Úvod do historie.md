@@ -112,3 +112,56 @@
 	- Náboženská tolerance
 	- Nemrhat silou na pronásledování fellow křesťanů
 	- Není to zrovnoprávnění -- víra 2. kat.
+
+## Typy a podoby moderního nacionalismu
+
+### Národní hnutí
+- _= cílevědomé úsilí o vyvynutí patriotismu aby nevládnoucí etnická skupina získala atributy zformovaného moderního národa (V rámci multietnické říše např. R-U)_
+- Cíle národního hnutí:
+	- Rozvíjení jazyka a kultury
+	- Dosažení politické samostatnosti
+	- Odstranění nižšího postavení v hierarchii sociální skladby -- eventuelně emancipace
+- Konec národního hnutí:
+	- Úspěšná - _Vznik národního státu_
+- Národní stát se v moderní době rovná národu -- dle klasického výkladu
+	- Pokud národ nemá hranice a státní útvar tak je to Etnikum
+
+### Politická dimenze národa
+- Velká Francouzská revoluce
+	- Národ = _Pospolitost rovných občanů spojených navzájem rovností a solidaritou_ -- VFR
+	- Národ jako proncip a idea
+
+- Středověk
+	- Národ = _Šlechta_ -- skupina která rozhoduje a má na to právo
+	- Koncept trpjího lidu => the great chain of being
+
+	- Univerzita
+		- Národ = mluví stejným jazykem a podřizují se stejnému právu
+		- 1348 -- Český, Bavorský, Polský, Saský
+			- Vzato z Pařížské univerzity
+
+### Jazyková a terminologická dimenze národa
+- lat. *Natio -- mnoho interpretací
+
+- Anglofoní
+	- Nation = State
+
+- Frankofoní
+	- La nation = Pospolitost se stejným jazykem a státem
+
+- Germannofoní
+	- Volk = Pospolitost se stejným jazykem historii kulturou
+
+- Východoevropní koncepce
+	- Nacija = Pospolitost ste stejným nebo společným jazykem, historií, kulturou
+
+- Čechofoní
+	- Národ = Pospolitost etc.. + Láska ke společné vlasti -- Komenský
+
+### Kulturní vs. Občanský národ
+- Občanský -- Dáno místem pobytu
+
+#### Johann Gottfried Herder
+- Jazyk jako duše národa = Herderský národ
+- Neexistuje lepší nebo horší jazyk
+- Každý jazyk se múže kodifikovat tzn. vznikne literární forma jazyka
