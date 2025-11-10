@@ -241,3 +241,51 @@
 - Pozorování je nasyceno
 - Neexistuje neutrální pozorovací bod
 - Věda má fungovat jako kritická komunita
+
+## Věda a společenské vědy
+
+### Věda a metoda
+- Zobecnění zákonitostí X Společenské jevy jsou specifické v různych kontextech
+-- jsou různe pozice v rámci spol. věd
+
+### Protikladné pozice
+- Pozitivismus -- hypotéza ověřována experimenty
+	- Kumulace vědomostí
+- Alternativa -- Přesné měření není cesta
+
+### Argumenty o jinakosti spol. věd
+
+1. Odlišná povaha vysvětlení
+- předpověď společnosti není reálná -- nefunguje
+	- Proč?
+		- podstatně komplexnější systémy než fyzika -- uzavřený x _otevřený systém_
+		- Reflexivita -- předpověď je reflektována společností o které byla
+		- Vysvětlení v příd. vědách také není vždy zaměřena na předpověď
+			- Evoluční teorie a předpověď:
+				- Víme +- jak to bylo ale nemůžeme vědět jak to bude
+			- vysvětlení /= předpověď
+2. Odlišná povaha poznání
+- Nomotické x Idiografické -- Zobecnění x Jednotlivy
+- Methodenstreit
+	- Ekonomie jako konkrétní věda
+		- Rakouská škola -- odvození od nejmenších prvků po celek
+- Ideální type (Max Weber)
+	- Zobecnění složitějších společenských jevů
+	- Ideální typ = vyhrocená kategorie jako srovnávací měřítko
+	- Např typy jednáníě
+3. Význam a reflexivita
+- Přírodní zákony vs. pravidla
+	- Pravidla lze porušit -- přírodní zákony ne
+- _Společenské jednání je vedeno pravidly_
+- Aby bylo pravidlo porušeno musíme si být vědomx toho že to pravidlo existuje
+- Jednání je naplněno smyslem
+- Reflexivita
+	- Lidé mají sebeuvědomění
+	- Předmět zkoumání si je vědom tím že je zkoumán
+	- Předpověď může ovlivnit budoucí dění
+4. Věda a hodnoty
+- Věda se nezabývá hodnotami
+- Objektivita -- nezainteresovanost a nestrannost
+- Hodnoty v přírodních vědách - výběr témat, relevance studia etc.
+- Hodnoty ve společenských vědách - výsledky mají reálné důsledky na společnost a politiku
+- Škála od Neutrality po kritickou až emancipační
