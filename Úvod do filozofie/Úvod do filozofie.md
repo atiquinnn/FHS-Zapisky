@@ -256,3 +256,10 @@ Návrhtrestu -- Druhá část
 		- 
 	- V dosavadních výkladech přírody chybí otázka "Kvůli čemu?" -- být teolelloogický
 		- Opravdové příčiny kde?
+## Dobrá obec vs. Demokracie
+- Lidová shromáždění - občané
+	- Muži s rodiči z Athén -- 10-20%
+	- Losování zástupců
+- Soudy -- všelidová porota
+- Čeho senejvíce bála Ath. demokracie? -- Tyranie, Oligarchie
+- Demokracie pouze na malém kratos -- území
