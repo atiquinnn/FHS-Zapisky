@@ -165,3 +165,26 @@
 - Jazyk jako duše národa = Herderský národ
 - Neexistuje lepší nebo horší jazyk
 - Každý jazyk se múže kodifikovat tzn. vznikne literární forma jazyka
+
+### Šovinismus vs patriotismus
+- Primordialismus
+	- Národ byl vždy a není nutno jej prokazovat
+	- Probudit a zvelebit
+	- Jazykový purismis -- Herderiáni
+	- Novologismy namísto přejatých slov
+
+### Národ definovaný vůlí příslušníků
+- Existence ja daná vůlí příslušníků -- sebeidentifikace národa
+- Ernst Renan -- Politická objednávka -- Okupace Alsazska
+
+### Karl W. Deutsche
+- Národ = pospolitost komplementární komunikace
+	- "Vnitroskupinná komunikace je jednodušší a intenzivnější v rámci skupiny
+
+### Národ jako sociální konstrukt
+- Benedict Anderson
+- Sociální komunikace + Imaginace -- Imagined communities
+
+### Konstruktivismus
+- Konstrukce národa -- vynalezená společnost
+- Eric Hobsbawm, Ernest Gellner
