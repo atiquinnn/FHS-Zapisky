@@ -256,6 +256,7 @@ Návrhtrestu -- Druhá část
 		- 
 	- V dosavadních výkladech přírody chybí otázka "Kvůli čemu?" -- být teolelloogický
 		- Opravdové příčiny kde?
+
 ## Dobrá obec vs. Demokracie
 - Lidová shromáždění - občané
 	- Muži s rodiči z Athén -- 10-20%
@@ -263,3 +264,18 @@ Návrhtrestu -- Druhá část
 - Soudy -- všelidová porota
 - Čeho senejvíce bála Ath. demokracie? -- Tyranie, Oligarchie
 - Demokracie pouze na malém kratos -- území
+- Vytesané zákony
+
+- Aristoteles:
+	- vláda jednoho - Monarchie / Tyranie
+	- vláda několika - Aristokracie / Oligarchie
+	- vláda mnoha - Politie / Demokracie
+
+- Platón:
+	- Ideální polis - Kallipolis
+		- Aristokracie
+			- Vojenská diktatura - Timokratia
+				- Oligarchie
+					- Demokracie
+						- Tyranie
+
