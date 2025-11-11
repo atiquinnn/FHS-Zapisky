@@ -648,3 +648,6 @@
 	- Usedlých vesnicích
 	- Randevouzs
 	- Obchodní stanice
+- Obchod mezi nepřátelskýma skupinama -- Tvorba příbuzenskýho vztahu -- Adoptování
+- Obchodní znakový jazyk
+- Tržní obchod
