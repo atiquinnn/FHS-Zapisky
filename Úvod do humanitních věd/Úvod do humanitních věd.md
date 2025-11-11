@@ -81,3 +81,11 @@
 ### Konspekt
 - Prezenční test v moodle
 - = text z knihy
+
+## Rozhovor
+- Demokracie má mít rozhovor
+- Osoba v jazyce
+- Množné číslo -- slučování mnoha lidí a tvoření zástupce
+
+### Pragmatická lingvistika
+- lhaní je těžký
