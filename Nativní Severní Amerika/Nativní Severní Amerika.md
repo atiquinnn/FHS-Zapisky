@@ -506,3 +506,145 @@
 - Kruhové sídliště
 - Letní zimní
 - Zemnice - průměr 18m
+
+## Ekonomika
+
+### Kontinuum reciprocity
+- Očekávané oplacení daru (Ne jen materiálního ale i labour) ovšem bez vynucení
+- Sociální ostrachizace těch jenž toto poruší
+- Nevyřčená cena
+- Platí pro blízké ale ne extra blízké
+- = Vyvážená reciprocita
+
+#### Ostatní druhy reciprocity
+- Všeobecná
+	- Altruistická -- dar -- v rámci rodiny
+	- Sice se nepočítá s oplacením ale je tam jeho očekávání
+- Negativní
+	- Něc za něco bez prodlevy
+	- Mezi cizinci a nepřáteli
+	- Šmejdi basically
+### Redistribuce
+- Centrální autorita shromáždí formu ekonomické výměny
+- Kumulace -> Distribuce
+
+### Tržní směna
+- Klasika
+- Mediace hodnoty nebo výměnný obchod
+- Odosobněná výměna
+
+### Arktický areál
+- Systém dělby úlovku -- Pikatigiit
+	- Rozdělení v sociální síti lovců
+	- 18 částí -- 18 partnerů
+- Výměna manželek -- Kipuktu
+	- Vyvážená reciprocita
+	- Vyjednáváno s ženami ale neměla moc na výběr
+	- Ne moc časté ale dělo se to
+	- Motivace:
+		- Praktická -- muž musel odjet - někdo se o ní měl starat
+		- Sociální
+		- Sexuální
+	- Katangotit - děti z těchto výměn
+	- Jen dočasná výměna
+	- Velmi odlišný model příbuzenství -- hlavní je kdo o dítě pečuje, ne krevní příbuznost
+- Vyvážená reciprocita
+### Severozápadní pobřeží
+
+#### Potlač
+- Kinda omylem všeobecná reciprocita ale to není hlavním cílem
+- Redistribuce
+- Slavnost kde náčelník + sociální jednotka (rodina až celá vesnice)
+- Jídlo a prestižní předměty
+	- Kožešiny
+	- Čikatské pláště
+	- Řezba
+	- Kánoe
+	- Měděné "štíty"
+		- Cena odvozena od starobylosti
+		- Extrémně vysoká hodnota
+- Ohlášen po významné události - Dospělost, Svatba, Smrt náčelníka či jeho jednotky
+- Potlačem byla vyjdenávána sociální pozice náčelníka
+- Dar nemusí být veden dobrým úmyslem
+- Bohatství spočíva ve schopnosti rozdat majetek
+- Zároveň ale reálně materiálně pomáhá sousedům
+
+#### Potlač jako systém směny
+
+##### A) Thorsten Veblen
+- Kanadská vláda je zakázala
+- Dle nich ekonomicky iracionální chování
+
+##### B) Andrew Vayda
+- Systém redistribuce
+
+##### C)
+- Udržování vztahů mezi vesnicemi
+
+##### D)
+- Prevence vzniku tříd
+- Prevence socioekonomické stratifikace
+- Majetek je "směněn" v prestiž
+
+#### Soupeřivý potlač
+- Během něj se rozdávané zboží i ničí
+- Nemusel to být součást Potlače -- až v důsledku kolonizace se to začalo dít
+- Šíření nemocí -- masivní úbytek obyvatel -> rozboření sociální hierarchie -> bylo nutno jí obnovit
+
+#### Komplexní charakter potlače
+- Ekonomika prestiže
+	- Materiální statky jsou měněni ve status
+	- Úspěch měřen darem
+- Manifestní funkce
+	- Ustavování hierarchií
+- Latentní funkce
+	- Přerozdělení bohatství
+	- Ustanovuje aliance
+- Příklad nutnosti holistické perspektivy
+
+### Severovýchod
+
+#### Obchodní impérium -- Huroni, Ottawané, Nipssingové
+- Během kolonizace -- Kožešinový obchod
+- Ovládnutí obchodních tras
+- Irokézové se na ně naštvali -- útok -- Huroni se rozutekli
+- Směna kožešin za evropské zboží
+- Made Beaver - jednotka směny -- vyloženě měna
+- Kolonizace to zintenzivnila
+
+#### Ekonomika dlouhého domu
+- Redistribuce v rámci domu
+- Hospodařící jednotka -- Matrilinie
+- Lov a Pěstování --> akumulace v domu pod Matronou - ta to přerozděluje
+- Ne kvůli hierarchii ale kvůli egalitářství
+
+### Jihozápad
+
+#### Loupežní ekonomika -- Dineé(Navaho) a Apačové
+- Negativní reciprocita
+- Součást obživné strategie
+- Loupežení od usazených pueblanů
+
+### Velké planiny
+
+#### Rozdávání jako sociální imperativ
+- Očekávaná štědrost
+- Symbol náčelnictví bylo rozdání bez nároku na oplacení
+- Obdarování a hoštění -- součást všech obřadů
+- Obřadní propíchnutí ušního boltce dítěti (Šajeni)
+	- Ohlášeno narození dítěte
+	- Buď symbolické nebo reálné propíchnutí
+	- Ten jenž to dělal chápal že to znamená že si ho otec dítěte váží
+- Nejštědřejší = Nejvyšší
+
+#### Válečné výpravy a krádeže koní
+- Negativní reciprocita
+- _Není_ soičástí obživné strategie
+
+#### Obchod
+- Rozvinutý i před kolonizací
+- Kožešiny z bizonů
+- Obchod v:
+	- Usedlých vesnicích
+	- Randevouzs
+	- Obchodní stanice
