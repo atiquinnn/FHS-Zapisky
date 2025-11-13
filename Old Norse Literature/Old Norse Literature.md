@@ -401,3 +401,73 @@
 	- Anger is described with preassure, swelling, temperature
 	- Death is described with bursting -- death due to emotional causes
 - Emotion is literally a part of your body
+
+## Materiality: The aura of the text - Juerg Glauser
+- Mediality - what was media in premodern times
+- Philology - study of language + textual witnesses
+	- Used to study the "Original" manuscript
+	- Copied by hand -- each one is unique -> impossible to find the original
+- Since 80s-90s -> look at as many variations of a text as possible
+	- = New philology
+	- Reflects 'Manuscript culture' -- hand copying
+- Printing press -> stable texts
+- Aura of a text
+	- Eminates from the object
+	- Materiality of the object
+	- It's effect on the audience
+	- = 'Charisma' -- "Powerful book" ie. Religious or big science books
+		- close to holyness
+	- Rune stones -- auratic character
+		- Stand out and attract people
+		- Aura quired through their age
+	- For an object to have aura it needs to be material
+	- Halo -- pointing out the aura of a saint
+		- Same with books
+	- Aura is created by a combination of the senses
+	- Beautiful objects can aquire aura more easily?
+	- The books do not exist neutrally -- performativity of ritual readings - created between the text, the reader, the audience
+
+### Authority
+1. - just a book -> oath of the chancelor -- now it is powerful
+	- The original needs to be used or it is not lawful
+	- Visually not striking at all but still auratic because of it's power
+2. - Papal bull -- Uppsala cathedral -- 1250
+	- St. Peter and St. Paul on the lead
+	- Confirms church's privileges
+3. - Aaldre Vaastgoetalagen -- Westrogothic law -- circa 1300
+	- Oldest text in old Swedish
+	- Also most likely used in a performative ritualistic way
+4. - Thet Nyia Testamentit poa Swensko -- 1526
+	- New testament in swedish
+	- Protestant -- Only the word is important - not the catholic institution
+	- Propably first _official_ translation into another language other than latin
+5. - Complete bible -- vernacular -- 1533 l.G. - 1550 D.
+	- Danish and Low german
+
+### Performativity
+- No known author for medieval texts
+- 9th - 10th -- Christianisation -> transition from oral to written tradition
+- Books represented in art -- Saints with books
+- Abbey plan -- ideal Abbey
+	- Closest to the altar - Scriptorium and Library
+	- Infra sedes scribentium / supra bibliotheca
+
+### Materiality
+- Codex gigas - 13th century -- Bohemia
+	- Largest medieval manuscript -- 92cm - 72kg
+- Birgitta Andersson's prayer book - 1518-32
+	- Visual representation of christ's wounds
+- Voar Herres pinobok -- book of passion
+	- Text hiddent under an illumination -> guide on what to read and when
+- Hjertebogen -- 1550s
+	- Shaped like a heart
+	- Ballads of love
+	- Danish
+
+- Aura is always connected to the usage of the object
+
+### Aura
+- Books used as symbols of status and power
+- Book of Gospels - 1140s
+	- St. patron of bookmakers - Laurencius
+- Dalbybog -- book of gospels - 1100s
