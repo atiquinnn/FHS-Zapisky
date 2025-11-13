@@ -453,13 +453,13 @@
 	- Infra sedes scribentium / supra bibliotheca
 
 ### Materiality
-- Codex gigas - 13th century -- Bohemia
+1. Codex gigas - 13th century -- Bohemia
 	- Largest medieval manuscript -- 92cm - 72kg
-- Birgitta Andersson's prayer book - 1518-32
+2. Birgitta Andersson's prayer book - 1518-32
 	- Visual representation of christ's wounds
-- Voar Herres pinobok -- book of passion
+3. - Voar Herres pinobok -- book of passion
 	- Text hiddent under an illumination -> guide on what to read and when
-- Hjertebogen -- 1550s
+4. - Hjertebogen -- 1550s
 	- Shaped like a heart
 	- Ballads of love
 	- Danish
@@ -471,3 +471,4 @@
 - Book of Gospels - 1140s
 	- St. patron of bookmakers - Laurencius
 - Dalbybog -- book of gospels - 1100s
+- Same text - different function - different aura
