@@ -472,3 +472,4 @@
 	- St. patron of bookmakers - Laurencius
 - Dalbybog -- book of gospels - 1100s
 - Same text - different function - different aura
+
