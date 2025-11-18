@@ -651,3 +651,167 @@
 - Obchod mezi nepřátelskýma skupinama -- Tvorba příbuzenskýho vztahu -- Adoptování
 - Obchodní znakový jazyk
 - Tržní obchod
+
+## Vztahy
+
+### Unilineární skupiny
+1. Rod
+	- max 10 gen dozadu
+2. Klan
+	- Původ od mýtického předka
+3. Moeita
+	- 2 skupiny
+4. Frátrie
+	- 3-4 skupiny
+
+#### Funkce
+- Tvoří základ identity
+- Regulují manželství
+- Spravují majetek
+- Právní subjekty
+- Kontrola chování jedinců
+- Vzájemná ekonomická pomoc
+
+### Neunilineární vztahy
+- = Příbuzenstvo
+- Egocentrické -- odvozováno od obou rodičů
+- Nelze jasně vymezit
+- Obtěžné zorganizovat
+- Problém konstrukce rodokmenů
+- Ve společnostech s velkým důrazem na oosobní nezávislost a geografickou mobilitu
+
+#### Příbuzenské systémy
+
+##### Eskymácký systém
+- Nukleární rodina je oddělená od ostatních příbuzných
+- bilaterální
+
+##### Havajský systém
+- = Generační systém
+- Bilaterální
+- Stejná generace, stejná příbuznosst -- teta -> máma etc.
+
+##### Súdánský systém
+- Každá pozice má vlastní termín -- záleží na straně
+- = deskriptivní systém
+
+##### Irokézský systém
+- Matrilineaární
+- Matka a její sestra = máma ; Otcovo sestra = teta
+- Příbuzenství jen podél matky a žen
+
+##### Crowský systém
+- Matrilineaární
+- Spojování generací na patrilineární straně
+- Teta = Sestřenice = Neteř z 2. kolene
+
+##### Paralelní x Křížový Cousins
+- Deti sourozence rodiče stejného pohlaví - Paralelní
+- Opak - Křížový
+
+### Arktický areál -- Mědění Inuité
+- Eskymácký systém
+- Důraz na nukleaární rodinu
+
+#### Sociální uspořádání
+
+##### Nukleární rodina
+- Rovnocenné postavení ženy a muže
+- Infantifemicida
+
+##### Tlupa
+- Spolupracující ekonomická a sidlící jednotka
+- 3 -- 4 rodiny
+- Nejsou jakkoliv intrinzicky spojené -- neunilineární
+
+### Velké planiny -- Šajeni
+- Havajský systém
+- V generaci ega -- důležitost chronicity sourozenců - starší, mladší
+
+#### Sociální uspořádání
+
+##### Nukleární rodina
+- Základní reprodukční jednotka
+
+##### Rozšířená rodina
+- Výchova dětí
+- Matrilineaární
+
+- Žádné uniliterální jednotky
+
+#### Žertovné a vyhýbavé vztahy
+
+##### Vyhýbavý vztah
+- Bratr - Sestra
+	- Žádná interakce po dospělosti
+- Zeť - Tchýně
+	- Muž musel mít plášť přes hlavu
+
+##### Žertovný vztah
+- Švagr - Švagrová
+- Švagr - Švagr
+- Obscénní a sexuální vtipy
+
+- Formalizace vztahů jako předcházení konfliktu
+
+### Severovýchodní lesy
+- Irokézský systém
+
+#### Sociální uspořádání
+
+##### Nukleární rodina
+- Reprodukční jednotka
+
+##### Rozšířená matrilinie
+- Dlouhý dům
+- Ekonomická jednotka
+
+##### Matrilineární klany
+- Klany ve všech kmenech
+
+##### Moeita
+- Pouze Kajugové, Onondagové, Senekové, Tuskarorové
+- Exogamní
+
+### Severozápadní pobřeží -- Tlingité
+- Matrilineární Crowský systém
+
+#### Sociální uspořádání
+
+##### Nukleární rodina
+- Reprodukční jednotka
+
+##### Domácnost
+- Nejdůležitější sociální a ekonomická jednotka
+- Do domácnosti mohou patřit i nepříbuzní
+- Skládá se z:
+	- Bratrů
+	- Matrilaterární paralelní bratranci
+	- Synové matrilaterárních paralelních sestřenic
+	- Synové dcer matrilaterálních paralelních sestřenic
+	- + jejich manželek a dětí
+	- = Avunkulát
+
+##### Rod
+
+##### Klan
+
+##### Moeita
+- Vrána x Vlk
+
+### Jihozápad -- Zuniové
+- Crowský systém podobný tlingitům -- neslučují se generace
+- Rozlišování paralelních bratranců na základě rozdílu věku mezi jejich rodiči
+- Rozlišování křížových bratranců na základě rozdílu věku s egem
+
+#### Sociální i+uspořádání
+
+##### Nukleární rodina
+- Reprodukční jednotka
+
+##### Matrilokální rodina
+- Jednotka v pueblu
+
+##### Matrilineární klan
+- 16 exogamních matrilineárních klanů
+- Patříte do klanu matky ale jste dítětem klanu otce
