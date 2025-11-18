@@ -89,3 +89,23 @@
 
 ### Pragmatická lingvistika
 - lhaní je těžký
+
+## Hra
+
+### Fenomenologie
+- Popsat a pochopit jev takový jaký je sám o sobě / Odhaluje něco co zde již bylo
+
+### Divadelní hra
+- Vznik tragédie -- Athény
+	- Hrdina podléhá hybris -- Pýcha
+	- Prochází patosem -- Utrpení
+	- Dojde ke Katastrofe -- Osudový obrat
+- Divadelní slavnost celé obce
+- Oddělení od každodennosti
+
+### Hřiště
+- To co se stane na hřišti se nepřenáší do reality
+- Hazardní hry
+- Záludná hra -- irracionální sázet -- nejde o utilitu ale jde o hru
+- Hra je zrcadlem reality
+- Pravidla a omezení dávají hře smysl
