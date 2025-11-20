@@ -473,3 +473,29 @@
 - Dalbybog -- book of gospels - 1100s
 - Same text - different function - different aura
 
+## Epic and Romance -- Elizabeth Archibald
+- Romance originally meant vernacular ie. not in latin
+- Romance v. Epic
+	- Men + Men, Men + Women
+- Retelling of Virgil with added love plot
+- History of the kings of Britain
+	- "Descended from trojans"
+	- Cadwalladr - last english king
+	- Arthur -- model court
+	- Tournament -- mock battle
+- Chivalric romance
+	- Love is a driving force
+- Oddyseia - proto-romance
+- Epic - feelings do not play a large part in the plot
+	- Not a debate between Love and Reason
+- Tolkien
+	- Time cant be turned back
+	- Romance
+		- Nothing really changes in the world -- time is not significant
+		- Familial relationships are not as important
+- Adventure -- what comes to you
+- Culture heroes -- does not increase wealth or power but reputation
+- Arthurian -- code of conduct -- romance
+- Rise of romance -> role models for violent knights (most knights) -- written by monks
+- First known romance in Old Norse -- Tristanssaga - Arthurian legend
+- Erex saga -- transformation of Chretien's romance into a sort of sagic epic
